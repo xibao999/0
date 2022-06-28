@@ -1,13 +1,8 @@
 {
     "sites": [
-        {"key":"csp_xpath_独播库","name":"独播库(XPF)(播放器要改成系统播放器)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXP/duboku.json"},
-
-{"key":"if101资源t1","name":"if101(T1)","type":1,"api":"https://demo.if101.tv/api.php/provide/vod","searchable":1,"quickSearch":0,"filterable":0},
-
-{"key":"if101资源t0","name":"if101(闪退)","type":0,"api":"https://demo.if101.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":0,"filterable":0},
         {
             "key": "csp_77",
-            "name": "七七",
+            "name": "酷云七七",
             "type": 3,
             "api": "csp_Kunyu77",
             "searchable": 1,
@@ -16,7 +11,7 @@
         },  
         {
             "key": "csp_CZSPP",
-            "name": "厂长",
+            "name": "厂长影视",
             "type": 3,
             "api": "csp_CZSPP",
             "searchable": 1,
@@ -25,7 +20,7 @@
         },
         {
             "key": "csp_DiDuan",
-            "name": "低端",
+            "name": "低端影视",
             "type": 3,
             "api": "csp_DiDuan",
             "searchable": 1,
@@ -34,7 +29,7 @@
         },
         {
             "key": "csp_Cokemv",
-            "name": "Coke",
+            "name": "COKE影视",
             "type": 3,
             "api": "csp_Cokemv",
             "searchable": 1,
@@ -42,8 +37,18 @@
             "filterable": 1
         },
         {
+            "key":"csp_biubiu_真不卡cerrd",
+            "name": "真不卡啊",
+            "type":3,
+            "api":"csp_XBiubiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://gitea.com/dxa/1/raw/branch/main/bk2.json"
+        },
+        {
             "key": "csp_XBiubiubiubiu_lezhu",
-            "name": "乐猪(B)",
+            "name": "乐猪影视",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -53,7 +58,7 @@
         },
         {
             "key": "csp_XBiubiubiubiu_蓝光影视",
-            "name": "蓝光",
+            "name": "蓝光影视",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -63,7 +68,7 @@
         },       
         {
             "key": "csp_xpath_网络搜集库112",
-            "name": "工人",
+            "name": "工人影视",
             "type": 3,
             "api": "csp_XPathMacFilter",
             "searchable": 1,
@@ -73,7 +78,7 @@
         },
         {
             "key": "csp_xpath_网络搜集源03",
-            "name": "在线",
+            "name": "在线之家",
             "type": 3,
             "api": "csp_XPathMacFilter",
             "searchable": 1,
@@ -83,7 +88,7 @@
         },
         {
             "key": "csp_xpath_hhys",
-            "name": "火火",
+            "name": "火火影视",
             "type": 3,
             "api": "csp_XPathMacFilter",
             "searchable": 1,
@@ -93,7 +98,7 @@
         },      
         {
             "key": "csp_xpath_网络搜集库108",
-            "name": "小熊",
+            "name": "小熊影视",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 1,
@@ -102,8 +107,18 @@
             "ext": "https://gitea.com/99/x/raw/branch/main/519-xiaoxiong.json"
         },
         {
+            "key":"csp_xpath_dm84",
+            "name": "动漫巴士",
+            "type":3,
+            "api":"csp_XPathFilter",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://gitea.com/dxa/1/raw/branch/main/dm84.json"
+        },                   
+        {
             "key": "csp_biubiu_维奇动漫",
-            "name": "维奇",
+            "name": "维奇动漫",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -113,7 +128,7 @@
         },
         {
             "key": "csp_XBiubiubiubiu_ysgc",
-            "name": "工厂(B)",
+            "name": "影视工厂",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -122,18 +137,8 @@
             "ext": "https://cdn.staticaly.com/gh/tvba/b/main/xb/b03-ysgc.js"
         },
         {
-            "key": "csp_biubiu_瓜皮TV",
-            "name": "瓜皮(B)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://cdn.staticaly.com/gh/tvba/b/main/xb/a11-gptv.js"
-        },
-        {
             "key": "csp_biubiu_蓝光影院",
-            "name": "蓝光(B)",
+            "name": "蓝光影院",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -143,7 +148,7 @@
         },
         {
             "key": "csp_XBiubiubiubiu_cokemv",
-            "name": "Coke(B)",
+            "name": "coke影视",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -153,7 +158,7 @@
         },
         {
             "key": "csp_XBiubiubiubiu_555",
-            "name": "555(B)",
+            "name": "五五五啊",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -163,7 +168,7 @@
         },
         {
             "key": "csp_xpath_网络搜集库huaya",
-            "name": "虎牙",
+            "name": "虎牙直播",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 1,
@@ -173,7 +178,7 @@
         },
         {
             "key": "csp_xpath_网络搜集库qiumi",
-            "name": "球迷",
+            "name": "球迷啊啊",
             "type": 3,
             "api": "csp_XPathFilter",
             "searchable": 1,
@@ -183,37 +188,19 @@
         },
         {
             "key": "csp_xpath_A33",
-            "name": "MTV",
+            "name": "音乐电视",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
             "ext": "https://gitea.com/99/x/raw/branch/main/mtv"
-        },
-        {
-            "key": "csp_GitCafe",
-            "name": "纸条",
-            "type": 3,
-            "api": "csp_GitCafe",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },
-        {
-            "key": "csp_AliPanSou",
-            "name": "猫搜",
-            "type": 3,
-            "api": "csp_AliPanSou",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },
+        }
         {
             "key": "push_agent",
-            "name": "推送",
+            "name": "推送啊啊",
             "type": 3,
-            "api": "csp_Ali",
+            "api": "csp_PushAgent",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
