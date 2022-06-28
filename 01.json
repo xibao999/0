@@ -195,7 +195,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": "https://gitea.com/99/x/raw/branch/main/mtv"
-        }
+        },
         {
             "key": "push_agent",
             "name": "推送啊啊",
