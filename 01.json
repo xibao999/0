@@ -12,7 +12,7 @@
         },
         {
             "key": "csp_77",
-            "name": "酷云七七",
+            "name": "🍊酷云七七",
             "type": 3,
             "api": "csp_Kunyu77",
             "searchable": 1,
@@ -21,7 +21,7 @@
         },  
         {
             "key": "csp_CZSPP",
-            "name": "厂长影视",
+            "name": "🍊厂长影视",
             "type": 3,
             "api": "csp_CZSPP",
             "searchable": 1,
@@ -30,7 +30,7 @@
         },
         {
             "key": "csp_DiDuan",
-            "name": "低端影视",
+            "name": "🍊低端影视",
             "type": 3,
             "api": "csp_DiDuan",
             "searchable": 1,
@@ -39,7 +39,7 @@
         },     
         {
             "key":"csp_Kuaikan",
-            "name":"快看影视",
+            "name":"🍊快看影视",
             "type":3,
             "api":"csp_Kuaikan",
             "searchable":1,
@@ -48,7 +48,7 @@
         },
         {
             "key": "csp_Cokemv",
-            "name": "Cokemv",
+            "name": "🍊Cokemv",
             "type": 3,
             "api": "csp_Cokemv",
             "searchable": 1,
