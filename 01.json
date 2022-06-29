@@ -28,33 +28,6 @@
             "filterable": 1
         },   
         {
-            "key": "csp_Blixs",
-            "name": "相声小品",
-            "type": 3,
-            "api": "csp_Blixs",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Blidw",
-            "name": "动物世界",
-            "type": 3,
-            "api": "csp_Blidw",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Blixq",
-            "name": "戏曲",
-            "type": 3,
-            "api": "csp_Blixq",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "csp_DiDuan",
             "name": "低端影视",
             "type": 3,
@@ -92,16 +65,6 @@
             "ext": "https://gitea.com/99/b/raw/branch/main/xb/b13-lezhu.js"
         },
         {
-            "key": "csp_biubiu_YYDS影院",
-            "name": "YYDS影院(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://kvymin.github.io/CatVod/XBiubiu/YYDS影院.json"
-         },
-         {
             "key": "美剧虫",
             "name": "美剧虫(v1)",
             "type": 3,
@@ -110,16 +73,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://meijuchong.com/api.php/v1.vod"
-          },
-          {
-            "key": "csp_biubiu_哔嘀影视",
-            "name": "哔嘀影视(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://kvymin.github.io/CatVod/XBiubiu/哔嘀影视.json"
         },
         {
             "key": "csp_XBiubiubiubiu_ysgc",
@@ -290,6 +243,33 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": "https://gitea.com/99/x/raw/branch/main/mtv"
+        },
+        {
+            "key": "csp_Blixs",
+            "name": "相声小品",
+            "type": 3,
+            "api": "csp_Blixs",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Blidw",
+            "name": "动物世界",
+            "type": 3,
+            "api": "csp_Blidw",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Blixq",
+            "name": "戏曲",
+            "type": 3,
+            "api": "csp_Blixq",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "push_agent",
