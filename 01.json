@@ -94,6 +94,21 @@
             "filterable": 1,
             "ext": "https://gitea.com/99/x/raw/branch/main/519-gongreng.json"
         },
+        {"key":"csp_biubiu_哔嘀影视","name":"🐛哔嘀影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dxa/1/raw/branch/main/%E5%93%94%E5%98%80%E5%BD%B1%E8%A7%86.json"},
+        {"key":"csp_biubiu_爱港剧","name":"🐛爱港剧","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dxa/1/raw/branch/main/%E7%88%B1%E6%B8%AF%E5%89%A7.json"},
+        {"key":"csp_biubiu_人人影视","name":"🐛人人影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dxa/1/raw/branch/main/%E4%BA%BA%E4%BA%BA%E5%BD%B1%E8%A7%86.json"},
+        {"key":"csp_biubiu_555电影","name":"🐛555电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dxa/1/raw/branch/main/555%E7%94%B5%E5%BD%B1.json"},
+
+        {"key":"csp_biubiu_555资源","name":"🐛555资源","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dxa/1/raw/branch/main/555%E8%B5%84%E6%BA%90.json"},
+        {"key":"csp_xpath_lezhutv","name":"🦋乐猪TV","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dxa/1/raw/branch/main/lezhutv.json"},
+        {"key":"csp_xpath_aidi","name":"🦋爱迪影视","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dxa/1/raw/branch/main/aidi.json"},
+        {"key":"csp_xpath_auete","name":"🦋Auete影视","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/dxa/1/raw/branch/main/auete.json"},
+        {"key":"csp_XPath_bidiys","name":"🦋哔嘀影视","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dxa/1/raw/branch/main/bidiys2.json"},
+        {"key":"csp_biubiu_厂长资源","name":"🐛厂长资源","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dxa/1/raw/branch/main/%E5%8E%82%E9%95%BF%E8%B5%84%E6%BA%90-%E8%93%9D%E5%85%89.json"},
+        
+        
+        
+        
         {
             "key": "csp_xpath_网络搜集源03",
             "name": "在线之家",
