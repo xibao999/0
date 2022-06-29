@@ -1,16 +1,6 @@
 {
     "sites": [
         {
-            "key": "csp_XBiubiubiubiu_lezhu",
-            "name": "乐猪影视(B)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gitea.com/99/b/raw/branch/main/xb/b13-lezhu.js"
-        },
-        {
             "key": "csp_77",
             "name": "🍊酷云七七",
             "type": 3,
@@ -54,6 +44,16 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "csp_XBiubiubiubiu_lezhu",
+            "name": "乐猪影视(B)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://gitea.com/99/b/raw/branch/main/xb/b13-lezhu.js"
         },
         {
             "key": "csp_XBiubiubiubiu_ysgc",
