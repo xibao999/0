@@ -138,8 +138,8 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://gitea.com/dxa/1/raw/branch/main/555dy.json"},
-        {
+            "ext":"https://gitea.com/dxa/1/raw/branch/main/555dy.json"
+        },     
         {
             "key": "csp_xpath_网络搜集库112",
             "name": "工人影视(XP)",
@@ -238,7 +238,8 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://gitea.com/dxa/1/raw/branch/main/555zy.json"},
+            "ext":"https://gitea.com/dxa/1/raw/branch/main/555zy.json"
+        },
         {
             "key": "csp_biubiu_蓝光影院",
             "name": "蓝光影院(XB)",
