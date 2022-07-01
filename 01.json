@@ -221,6 +221,15 @@
             "ext":"https://gitea.com/dxa/1/raw/branch/main/bk2.json"
         },
         {
+            "key":"csp_biubiu_555资源",
+            "name":"555资源",
+            "type":3,
+            "api":"csp_XBiubiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://gitea.com/dxa/1/raw/branch/main/555zy.json"},
+        {
             "key": "csp_biubiu_蓝光影院",
             "name": "蓝光影院(XB)",
             "type": 3,
