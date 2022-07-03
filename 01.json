@@ -27,15 +27,7 @@
             "quickSearch": 1,
             "filterable": 1
         },   
-        {
-            "key":"csp_LiteApple",
-            "name":"小苹果",
-            "type":3,
-            "api":"csp_LiteApple",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable": 1
-        },
+        
         {
             "key": "csp_DiDuan",
             "name": "低端影视",
