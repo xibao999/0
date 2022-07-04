@@ -28,15 +28,6 @@
             "filterable":1
         },
         {
-            "key": "csp_DiDuan",
-            "name": "低端影视",
-            "type": 3,
-            "api": "csp_DiDuan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },     
-        {
             "key":"csp_Kuaikan",
             "name": "快看影视",
             "type":3,
@@ -46,13 +37,40 @@
             "filterable":1
         },
         {
-            "key": "csp_Bttoo",
-            "name": "Bttoo",
-            "type": 3,
-            "api": "csp_Bttoo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "key":"低端影视",
+            "name":"低端影视",
+            "type":3,
+            "api":"csp_Ddrk",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
+            "key":"360",
+            "name":"360",
+            "type":3,
+            "api":"csp_SP360",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
+            "key":"zxzj",
+            "name":"在线之家",
+            "type":3,
+            "api":"csp_Zxzj",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
+            "key":"Auete",
+            "name":"Auete",
+            "type":3,
+            "api":"csp_Auete",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
         },
         {
             "key": "csp_Cokemv",
