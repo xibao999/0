@@ -124,14 +124,14 @@
             "ext": "https://gitea.com/99/b/raw/branch/main/xb/b02-lgys.js"
         },   
         {
-            "key": "csp_xpath_网络搜集库112",
-            "name": "工人影视(XP)",
+            "key": "csp_XBiubiubiubiu_口袋影院",
+            "name": "口袋(XB)",
             "type": 3,
-            "api": "csp_XPathMacFilter",
+            "api": "csp_XBiubiu",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitea.com/99/x/raw/branch/main/519-gongreng.json"
+            "filterable": 0,
+            "ext": "https://gitea.com/99/b/raw/branch/main/xb/b07-kdys.js"
         },
         {
             "key":"csp_biubiu_爱港剧",
@@ -144,45 +144,15 @@
             "ext":"https://gitea.com/dxa/1/raw/branch/main/%E7%88%B1%E6%B8%AF%E5%89%A7.json"
         },    
         {
-            "key":"csp_XPath_bidiys",
-            "name": "哔嘀影视(XP)",
-            "type":3,
-            "api":"csp_XPath",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://gitea.com/dxa/1/raw/branch/main/bidiys2.json"
-        },
-        {
-            "key":"csp_biubiu_厂长资源",
-            "name": "厂长资源(XB)",
+            "key":"csp_biubiu_真不卡cerrd",
+            "name": "真不卡(XB)",
             "type":3,
             "api":"csp_XBiubiu",
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://gitea.com/dxa/1/raw/branch/main/%E5%8E%82%E9%95%BF%E8%B5%84%E6%BA%90-%E8%93%9D%E5%85%89.json"
-        },       
-        {
-            "key": "csp_xpath_hhys",
-            "name": "火火影视(XPF)",
-            "type": 3,
-            "api": "csp_XPathMacFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitea.com/99/x/raw/branch/main/604-huohuo.js"
-        },      
-        {
-            "key": "csp_xpath_网络搜集库108",
-            "name": "小熊影视(XP)",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitea.com/99/x/raw/branch/main/519-xiaoxiong.json"
-        },
+            "ext":"https://dxawi.github.io/6/zbk.json"
+        },   
         {
             "key":"csp_xpath_dm84",
             "name": "动漫巴士(XPF)",
