@@ -122,6 +122,26 @@
             "ext": "https://cdn.staticaly.com/gh/tvba/b/main/xb/b03-ysgc.js"
         },
         {
+            "key": "csp_biubiu_555电影",
+            "name": "555电影(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://dxawi.github.io/6/555dy.json"
+        },
+        {
+            "key": "剧白白",
+            "name": "剧白白(XPF)",
+            "type": 3,
+            "api": "csp_XPathMacFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://dxawi.github.io/6/jbb.json"
+        },    
+        {
             "key": "csp_XBiubiubiubiu_蓝光影视",
             "name": "蓝光影视(XB)",
             "type": 3,
