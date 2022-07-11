@@ -65,15 +65,6 @@
             "filterable": 1
         },   
         {
-            "key":"Lib",
-            "name": "Libvio",
-            "type":3,
-            "api":"csp_Lib",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },
-        {
             "key":"360",
             "name": "360",
             "type":3,
@@ -243,13 +234,14 @@
             "ext":"dcbc975ad0684eb5a498ecd1836272e6"
         },
         {
-            "key": "push_agent",
-            "name": "推送",
-            "type": 3,
-            "api": "csp_PushAgent",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0
+            "key":"push_agent",
+            "name":"推送",
+            "type":3,
+            "api":"csp_PushAgent",
+            "searchable":0,
+            "quickSearch":0,
+            "filterable":0,
+            "ext":"27b06d5221a24199b15f2e573d847430"
         }
     ],
        "lives": [
