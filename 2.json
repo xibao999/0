@@ -11,6 +11,24 @@
             "filterable": 1
         },      
         {
+            "key":"csp_CZSPP",
+            "name":"厂长",
+            "type":3,
+            "api":"csp_CZSPP",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
+            "key":"csp_Bttoo",
+            "name": "两个变态",
+            "type":3,
+            "api":"csp_Bttoo",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
             "key": "csp_Cokemv",
             "name": "Cokemv",
             "type": 3,
@@ -36,42 +54,6 @@
             "quickSearch": 1,
             "searchable": 1,
             "filterable": 1
-        },
-        {
-            "key":"厂长影视",
-            "name": "厂长影视",
-            "type":3,
-            "api":"csp_Czsapp",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },
-        {
-            "key":"csp_Bttoo",
-            "name": "两个变态",
-            "type":3,
-            "api":"csp_Bttoo",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },
-        {
-            "key":"Lib",
-            "name": "Libvio",
-            "type":3,
-            "api":"csp_Lib",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },
-        {
-            "key":"csp_Zxzj",
-            "name": "在线之家",
-            "type":3,
-            "api":"csp_Zxzj",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
         },
         {
             "key":"360",
@@ -103,19 +85,6 @@
             "ext": "https://dxawi.github.io/6/ysgc.json"
         },      
         {
-            "key": "美剧虫",
-            "name": "美剧虫(v1)",
-            "type": 3,
-            "api": "csp_AppYs",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://meijuchong.com/api.php/v1.vod"
-        },
-        {"key":"300看世界","name":"🎬300看世界(V2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://300ys.xyz/mogai_api.php/v1.vod"},
-        {"key":"钟特影视","name":"🌏钟特影视(v2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://app.zteys.com/api.php/v1.vod"},
-    {"key":"爱酷","name":"📺爱酷〔V2〕","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"},
-        {
             "key": "csp_XBiubiubiubiu_口袋影院",
             "name": "口袋影院(XB)",
             "type": 3,
@@ -124,16 +93,6 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://gitea.com/99/b/raw/branch/main/xb/b07-kdys.js"
-        },
-        {
-            "key":"csp_xpath_libv",
-            "name":"LIBVIO(XPF)",
-            "type":3,
-            "api":"csp_XPathMacFilter",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://dxawi.github.io/6/libv.json"
         },
         {
             "key":"csp_biubiu_LIBVIO",
@@ -155,16 +114,6 @@
             "filterable":0,
             "ext":"https://dxawi.github.io/6/zbk1.json"
         },   
-        {
-            "key": "剧白白",
-            "name": "剧白白(XPF)",
-            "type": 3,
-            "api": "csp_XPathMacFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://dxawi.github.io/6/jbb.json"
-        },    
         {
             "key":"csp_biubiu_爱港剧",
             "name": "爱港剧(XB)",
@@ -196,6 +145,26 @@
             "ext":"https://dxawi.github.io/6/zbk.json"
         },   
         {
+            "key": "美剧虫",
+            "name": "美剧虫(v1)",
+            "type": 3,
+            "api": "csp_AppYs",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://meijuchong.com/api.php/v1.vod"
+        },
+        {
+             "key":"300看世界",
+             "name": "300看世界(v2)",
+             "type":3,
+             "api":"csp_AppYsV2",
+             "searchable":1,
+             "quickSearch":1,
+             "filterable":1,
+             "ext":"https://300ys.xyz/mogai_api.php/v1.vod"
+        },
+        {
             "key":"csp_xpath_lezhutv",
             "name": "乐猪TV(XPM)",
             "type":3,
@@ -205,6 +174,26 @@
             "filterable":0,
             "ext":"https://dxawi.github.io/6/lztv.json"
         },
+        {
+            "key":"csp_xpath_libv",
+            "name":"LIBVIO(XPF)",
+            "type":3,
+            "api":"csp_XPathMacFilter",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://dxawi.github.io/6/libv.json"
+        },
+        {
+            "key": "剧白白",
+            "name": "剧白白(XPF)",
+            "type": 3,
+            "api": "csp_XPathMacFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://dxawi.github.io/6/jbb.json"
+        },    
         {
             "key":"csp_xpath_dm84",
             "name": "动漫巴士(XPF)",
@@ -225,36 +214,6 @@
             "filterable": 1,
             "ext": "https://gitea.com/99/x/raw/branch/main/huya.js"
         },                
-        {
-            "key": "Bili",
-            "name": "B站",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-        	"ext": "https://gitea.com/Pandora2277/Box/raw/branch/master/sub/Bili.json"
-        },
-        {
-            "key": "Gitcafe",
-            "name": "小纸条",
-            "type": 3,
-            "api": "csp_Gitcafe",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "27b06d5221a24199b15f2e573d847430"
-        },
-        {
-            "key":"AliPS",
-            "name": "盘搜",
-            "type":3,
-            "api":"csp_AliPS",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"dcbc975ad0684eb5a498ecd1836272e6"
-        },
         {
             "key":"push_agent",
             "name":"推送",
