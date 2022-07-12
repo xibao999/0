@@ -29,6 +29,15 @@
             "filterable":1
         },
         {
+            "key": "csp_Kmys",
+            "name": "酷猫影视",
+            "type": 3,
+            "api": "csp_Kmys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "csp_Cokemv",
             "name": "Cokemv",
             "type": 3,
@@ -165,6 +174,7 @@
             "ext":"27b06d5221a24199b15f2e573d847430"
         }
     ],
+    
        "lives":[
 {"group":"redirect","channels":[
     {"name":"live","urls":[
@@ -559,5 +569,5 @@
     ],
     
     "wallpaper": "https://picsum.photos/1080",
-    "spider": "http://home.jundie.top:81/ray/bc.jar"
+    "spider": "http://home.jundie.top:81/ray/cs220711.jar"
 }
