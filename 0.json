@@ -81,7 +81,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://dxawi.github.io/6/lzys.json"
+            "ext": "http://home.jundie.top:81/ray/json/lzys.json"
         },
         {
             "key": "csp_XBiubiubiubiu_ysgc",
@@ -91,7 +91,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://dxawi.github.io/6/ysgc.json"
+            "ext": "http://home.jundie.top:81/ray/json/ysgc.json"
         },      
         {
             "key": "美剧虫",
@@ -121,7 +121,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://dxawi.github.io/6/kdyy.json"
+            "ext": "http://home.jundie.top:81/ray/json/kdyy.json"
         },
         {
             "key": "csp_biubiu_蓝光影院",
@@ -131,7 +131,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://dxawi.github.io/6/lgyy.json"
+            "ext": "http://home.jundie.top:81/ray/json/lgyy.json"
         },
         {
             "key":"csp_xpath_libv",
@@ -141,7 +141,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://dxawi.github.io/6/libv.json"
+            "ext":"http://home.jundie.top:81/ray/json/libv.json"
         },
         {
             "key": "剧白白",
@@ -151,7 +151,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://dxawi.github.io/6/jbb.json"
+            "ext": "http://home.jundie.top:81/ray/json/jbb.json"
         },   
         {
             "key":"csp_xpath_dm84",
@@ -161,7 +161,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://dxawi.github.io/6/dm84.json"
+            "ext":"http://home.jundie.top:81/ray/json/dm84.json"
         },    
         {
             "key":"csp_biubiu_爱港剧",
@@ -171,7 +171,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://dxawi.github.io/6/agj.json"
+            "ext":"http://home.jundie.top:81/ray/json/agj.json"
         },    
         {
             "key":"csp_biubiu_真不卡cerrd",
@@ -181,7 +181,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://dxawi.github.io/6/zbk.json"
+            "ext":"http://home.jundie.top:81/ray/json/zbk.json"
         },   
         {
             "key": "csp_XBiubiubiubiu_cokemv",
@@ -191,7 +191,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://dxawi.github.io/6/coke.json"
+            "ext": "http://home.jundie.top:81/ray/json/coke.json"
         },
         {
             "key":"csp_biubiu_LIBVIO",
@@ -201,7 +201,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://dxawi.github.io/6/libv1.json"
+            "ext":"http://home.jundie.top:81/ray/json/libv1.json"
         },
         {
             "key":"csp_xpath_lezhutv",
@@ -211,7 +211,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://dxawi.github.io/6/lztv.json"
+            "ext":"http://home.jundie.top:81/ray/json/lztv.json"
         },
         {
             "key": "csp_xpath_网络搜集库huaya",
@@ -221,7 +221,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://dxawi.github.io/6/huya.json"
+            "ext": "http://home.jundie.top:81/ray/json/huya.json"
         },
         {
             "key": "Bili",
@@ -231,7 +231,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-        	"ext": "https://dxawi.github.io/6/bili.json"
+        	"ext": "http://home.jundie.top:81/ray/json/bili.json"
         },
         {
             "key": "Gitcafe",
@@ -659,5 +659,5 @@
         "cms.qdwght.com"
     ],
     "wallpaper": "https://picsum.photos/1080",
-    "spider": "https://gitea.com/dxa/1/raw/branch/main/custom_spider.jar;md5;6fa1249ae7beeb0222a05db1bc58fb26"
+    "spider": "http://home.jundie.top:81/ray/cs.jar"
 }
