@@ -115,6 +115,16 @@
             "ext": "http://home.jundie.top:81/ray/json/kdyy.json"
         },
         {
+            "key": "csp_biubiu_蓝光影院",
+            "name": "蓝光影院(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://home.jundie.top:81/ray/json/lgyy.json"
+        },
+        {
             "key":"csp_xpath_libv",
             "name":"LIBVIO(XPF)",
             "type":3,
@@ -124,6 +134,16 @@
             "filterable":1,
             "ext":"http://home.jundie.top:81/ray/json/libv.json"
         },
+        {
+            "key": "剧白白",
+            "name": "剧白白(XPF)",
+            "type": 3,
+            "api": "csp_XPathMacFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://home.jundie.top:81/ray/json/jbb.json"
+        },   
         {
             "key":"csp_xpath_dm84",
             "name": "动漫巴士(XPF)",
