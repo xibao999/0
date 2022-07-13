@@ -610,6 +610,6 @@
     ],
     
     "wallpaper": "https://picsum.photos/1080",
-    //"spider": "http://home.jundie.top:81/ray/cs220711.jar"
-    "spider":"https://gitea.com/dxa/1/raw/branch/main/cs220711.jar;md5;1026ef9a5e78c1f00887c13142d50f3b"
+    "spider": "http://home.jundie.top:81/ray/cs220711.jar"
+    //"spider":"https://gitea.com/dxa/1/raw/branch/main/cs220711.jar;md5;1026ef9a5e78c1f00887c13142d50f3b"
 }
