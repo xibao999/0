@@ -65,24 +65,6 @@
             "filterable": 1
         },
         {
-            "key":"Lib",
-            "name":"Libvio",
-            "type":3,
-            "api":"csp_Lib",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },
-        {
-            "key": "zxzj",
-            "name": "在线之家",
-            "type": 3,
-            "api": "csp_Zxzj",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key":"360",
             "name": "360",
             "type":3,
@@ -159,7 +141,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://gitea.com/dxa/1/raw/branch/main/xb/a03-zxzj.js"
+            "ext": "http://home.jundie.top:81/ray/json/zxzj.json"
         },
         {
             "key": "csp_biubiu_蓝光影院",
@@ -172,14 +154,14 @@
             "ext": "http://home.jundie.top:81/ray/json/lgyy.json"
         },
         {
-            "key":"csp_xpath_libv",
-            "name":"LIBVIO(XPF)",
+            "key":"csp_biubiu_libv",
+            "name":"LIBVIO(XB)",
             "type":3,
-            "api":"csp_XPathMacFilter",
+            "api": "csp_XBiubiu",
             "searchable":1,
             "quickSearch":1,
-            "filterable":1,
-            "ext":"http://home.jundie.top:81/ray/json/libv.json"
+            "filterable":0,
+            "ext":"http://home.jundie.top:81/ray/json/libv1.json"
         },
         {
             "key": "剧白白",
