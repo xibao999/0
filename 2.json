@@ -123,16 +123,6 @@
             "ext": "http://home.jundie.top:81/ray/json/ysgc.json"
         },      
         {
-            "key": "csp_XBiubiubiubiu_口袋影院",
-            "name": "口袋影院(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://home.jundie.top:81/ray/json/kdyy.json"
-        },
-        {
             "key": "csp_biubiu_555电影",
             "name": "555电影(XB)",
             "type": 3,
