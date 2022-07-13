@@ -153,16 +153,6 @@
             "ext": "http://home.jundie.top:81/ray/json/lgyy.json"
         },
         {
-            "key":"csp_xpath_libv",
-            "name":"LIBVIO(XPF)",
-            "type":3,
-            "api":"csp_XPathMacFilter",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"http://home.jundie.top:81/ray/json/libv.json"
-        },
-        {
             "key": "剧白白",
             "name": "剧白白(XPF)",
             "type": 3,
@@ -204,7 +194,7 @@
         },   
         {
             "key": "csp_XBiubiubiubiu_cokemv",
-            "name": "cokemv(XB)",
+            "name": "Cokemv(XB)",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -220,7 +210,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"http://home.jundie.top:81/ray/json/libv1.json"
+            "ext":"http://home.jundie.top:81/ray/json/libv.json"
         },
         {
             "key":"csp_xpath_lezhutv",

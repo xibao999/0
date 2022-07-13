@@ -12,7 +12,7 @@
         },      
         {
             "key":"csp_CZSPP",
-            "name":"厂长",
+            "name": "厂长影视",
             "type":3,
             "api":"csp_CZSPP",
             "searchable":1,
@@ -134,6 +134,16 @@
             "ext": "http://home.jundie.top:81/ray/json/555dy.json"
         },
         {
+            "key":"csp_biubiu_libv",
+            "name": "LIBVIO(XB)",
+            "type":3,
+            "api": "csp_XBiubiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"http://home.jundie.top:81/ray/json/libv.json"
+        },
+        {
             "key": "csp_biubiu_在线之家",
             "name": "在线之家(XB)",
             "type": 3,
@@ -152,16 +162,6 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "http://home.jundie.top:81/ray/json/lgyy.json"
-        },
-        {
-            "key":"csp_biubiu_libv",
-            "name":"LIBVIO(XB)",
-            "type":3,
-            "api": "csp_XBiubiu",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"http://home.jundie.top:81/ray/json/libv1.json"
         },
         {
             "key": "剧白白",
