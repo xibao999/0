@@ -56,15 +56,6 @@
             "filterable": 1
         },   
         {
-            "key":"csp_Kuaikan",
-            "name": "快看",
-            "type":3,
-            "api":"csp_Kuaikan",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },
-        {
             "key": "zxzj",
             "name": "在线之家",
             "type": 3,
@@ -74,6 +65,15 @@
             "filterable": 1
         },
         {
+            "key":"If101",
+            "name": "If101(需翻墙)",
+            "type":3,
+            "api":"csp_If101",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
             "key":"360",
             "name": "360",
             "type":3,
@@ -81,6 +81,16 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1
+        },
+        {
+            "key": "csp_XBiubiubiubiu_口袋影院",
+            "name": "口袋影院(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://home.jundie.top:81/ray/json/kdyy.json"
         },
         {
             "key": "csp_XBiubiubiubiu_lezhu",
@@ -121,16 +131,6 @@
              "quickSearch":1,
              "filterable":1,
              "ext":"https://300ys.xyz/mogai_api.php/v1.vod"
-        },
-        {
-            "key": "csp_XBiubiubiubiu_口袋影院",
-            "name": "口袋影院(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://home.jundie.top:81/ray/json/kdyy.json"
         },
         {
             "key": "csp_biubiu_555电影",

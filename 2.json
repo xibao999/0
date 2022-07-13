@@ -65,6 +65,15 @@
             "filterable": 1
         },
         {
+            "key":"csp_Nbys",
+            "name": "泥巴(需翻墙)",
+            "type":3,
+            "api":"csp_Nbys",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
             "key":"360",
             "name": "360",
             "type":3,
