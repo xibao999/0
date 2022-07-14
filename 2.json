@@ -101,7 +101,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://home.jundie.top:81/ray/json/lzys.json"
+            "ext": "https://github.com/dxawi/6/lzys.json"
         },
         {
             "key": "csp_XBiubiubiubiu_ysgc",
@@ -111,7 +111,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://home.jundie.top:81/ray/json/ysgc.json"
+            "ext": "https://github.com/dxawi/6/ysgc.json"
         },      
         {
             "key": "csp_biubiu_555电影",
@@ -121,7 +121,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://home.jundie.top:81/ray/json/555dy.json"
+            "ext": "https://github.com/dxawi/6/555dy.json"
         },
         {
             "key":"csp_biubiu_libv",
@@ -131,7 +131,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"http://home.jundie.top:81/ray/json/libv.json"
+            "ext":"https://github.com/dxawi/6/libv.json"
         },
         {
             "key": "csp_biubiu_在线之家",
@@ -141,7 +141,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://home.jundie.top:81/ray/json/zxzj.json"
+            "ext": "https://github.com/dxawi/6/zxzj.json"
         },
         {
             "key": "csp_biubiu_蓝光影院",
@@ -151,7 +151,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://home.jundie.top:81/ray/json/lgyy.json"
+            "ext": "https://github.com/dxawi/6/lgyy.json"
         },
         {
             "key": "剧白白",
@@ -161,7 +161,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://home.jundie.top:81/ray/json/jbb.json"
+            "ext": "https://github.com/dxawi/6/jbb.json"
         },   
         {
             "key":"csp_xpath_dm84",
@@ -171,7 +171,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"http://home.jundie.top:81/ray/json/dm84.json"
+            "ext":"https://github.com/dxawi/6/dm84.json"
         },    
         {
              "key":"csp_AliPanSou",
@@ -600,6 +600,6 @@
     ],
     
     "wallpaper": "https://picsum.photos/1080",
-    "spider": "http://home.jundie.top:81/ray/cs220711.jar"
-    //"spider":"https://gitea.com/dxa/1/raw/branch/main/cs220711.jar;md5;1026ef9a5e78c1f00887c13142d50f3b"
+    //"spider": "http://home.jundie.top:81/ray/cs220711.jar"
+    "spider":"https://gitea.com/dxa/1/raw/branch/main/cs220711.jar;md5;79ee3cbb2c5bcbcac07e34458d555cf5"
 }
