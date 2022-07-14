@@ -101,7 +101,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://github.com/dxawi/6/lzys.json"
+            "ext": "https://dxawi.github.io/6/lzys.json"
         },
         {
             "key": "csp_XBiubiubiubiu_ysgc",
@@ -111,7 +111,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://github.com/dxawi/6/ysgc.json"
+            "ext": "https://dxawi.github.io/6/ysgc.json"
         },      
         {
             "key": "csp_biubiu_555电影",
@@ -121,7 +121,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://github.com/dxawi/6/555dy.json"
+            "ext": "https://dxawi.github.io/6/555dy.json"
         },
         {
             "key":"csp_biubiu_libv",
@@ -131,7 +131,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://github.com/dxawi/6/libv.json"
+            "ext":"https://dxawi.github.io/6/libv.json"
         },
         {
             "key": "csp_biubiu_在线之家",
@@ -141,7 +141,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://github.com/dxawi/6/zxzj.json"
+            "ext": "https://dxawi.github.io/6/zxzj.json"
         },
         {
             "key": "csp_biubiu_蓝光影院",
@@ -151,7 +151,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://github.com/dxawi/6/lgyy.json"
+            "ext": "https://dxawi.github.io/6/lgyy.json"
         },
         {
             "key": "剧白白",
@@ -161,7 +161,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://github.com/dxawi/6/jbb.json"
+            "ext": "https://dxawi.github.io/6/jbb.json"
         },   
         {
             "key":"csp_xpath_dm84",
@@ -171,7 +171,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://github.com/dxawi/6/dm84.json"
+            "ext":"https://dxawi.github.io/6/dm84.json"
         },    
         {
              "key":"csp_AliPanSou",
