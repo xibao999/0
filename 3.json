@@ -12,9 +12,9 @@
         },      
         {
             "key":"csp_CZSPP",
-            "name":"厂长影视",
+            "name": "厂长资源",
             "type":3,
-            "api":"csp_CZSAPP",
+            "api":"csp_Czsapp",
             "searchable":1,
             "quickSearch":1,
             "filterable":0
@@ -166,7 +166,7 @@
         },
         {
             "key":"csp_xpath_bttoo",
-            "name": "两个BT(XP)",
+            "name": "两个变态(XP)",
             "type":3,
             "api":"csp_XPath",
             "searchable":0,
