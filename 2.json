@@ -173,6 +173,36 @@
             "ext":"https://gitea.com/dxa/6/raw/branch/main/gptv.json"
         },
         {
+            "key":"csp_xpath_cokemv",
+            "name": "Cokemv(XPF)",
+            "type":3,
+            "api":"csp_XPathFilter",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://gitea.com/dxa/6/raw/branch/main/cokep.json"
+        },
+        {
+            "key":"csp_xpath_ddg",
+            "name": "达达龟(XPF)",
+            "type":3,
+            "api":"csp_XPathMacFilter",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://gitea.com/dxa/6/raw/branch/main/ddgp.json"
+        },
+        {
+            "key":"csp_xpath_zxzj",
+            "name": "在线之家(XPF)",
+            "type":3,
+            "api":"csp_XPathFilter",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://gitea.com/dxa/6/raw/branch/main/zxzjp.json"
+        },
+        {
             "key":"csp_xpath_libv",
             "name":"LIBVIO(XPF)",
             "type":3,
@@ -202,6 +232,26 @@
             "filterable":0,
             "ext":"http://home.jundie.top:81/ray/json/dm84.json"
         },    
+        {
+            "key": "FindZY",
+            "name": "找资源",
+            "type": 3,
+            "api": "csp_FindZY",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "27b06d5221a24199b15f2e573d847430"
+        },
+        {
+            "key": "Gitcafe",
+            "name": "小纸条",
+            "type": 3,
+            "api": "csp_GitCafe",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "27b06d5221a24199b15f2e573d847430"
+        },
         {
              "key":"csp_AliPanSou",
              "name": "盘搜",
