@@ -17,7 +17,7 @@
             "api":"csp_CZSAPP",
             "searchable":1,
             "quickSearch":1,
-            "filterable":1
+            "filterable":0
         },
         //{
         //    "key":"csp_Bttoo",
@@ -93,6 +93,16 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://gitea.com/dxa/6/raw/branch/main/lzys.json"
+        },
+        {
+            "key":"csp_biubiu_厂长资源",
+            "name": "厂长资源(XB)",
+            "type":3,
+            "api":"csp_XBiubiu",
+            "searchable":0,
+            "quickSearch":0,
+            "filterable":0,
+            "ext":"https://gitea.com/dxa/6/raw/branch/main/czzy.json"
         },
         {
             "key": "csp_XBiubiubiubiu_ysgc",
