@@ -223,6 +223,16 @@
             "filterable":0,
             "ext":"https://dxawi.github.io/6/dm84.json"
         },    
+          {
+      "key": "FindZY",
+      "name": "找资源",
+      "type": 3,
+      "api": "csp_FindZY",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "27b06d5221a24199b15f2e573d847430"
+    },
         {
              "key":"csp_AliPanSou",
              "name": "盘搜",
