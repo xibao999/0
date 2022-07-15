@@ -65,6 +65,16 @@
             "filterable":1
         },
         {
+             "key":"哔滴磁链",
+             "name": "哔滴磁链(XP)",
+             "type":3,
+             "api":"csp_XPath",
+             "searchable":1,
+             "quickSearch":1,
+             "filterable":1,
+             "ext":"https://gitea.com/dxa/6/raw/branch/main/bidip.json"
+        }
+        {
             "key": "美剧虫",
             "name": "美剧虫(v1)",
             "type": 3,
@@ -92,7 +102,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://home.jundie.top:81/ray/json/lzys.json"
+            "ext": "https://gitea.com/dxa/6/raw/branch/main/lzys.json"
         },
         {
             "key": "csp_XBiubiubiubiu_ysgc",
@@ -102,7 +112,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://home.jundie.top:81/ray/json/ysgc.json"
+            "ext": "https://gitea.com/dxa/6/raw/branch/main/ysgc.json"
         },      
         {
             "key": "csp_XBiubiubiubiu_口袋影院",
@@ -112,7 +122,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://home.jundie.top:81/ray/json/kdyy.json"
+            "ext": "https://gitea.com/dxa/6/raw/branch/main/kdyy.json"
         },
         {
             "key": "csp_biubiu_555电影",
@@ -122,7 +132,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://dxawi.github.io/6/555b.json"
+            "ext": "https://gitea.com/dxa/6/raw/branch/main/555b.json"
         },
         {
             "key":"csp_biubiu_libv",
@@ -132,7 +142,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext": "https://dxawi.github.io/6/libv.json"
+            "ext": "https://gitea.com/dxa/6/raw/branch/main/libv.json"
         },
         {
             "key": "csp_biubiu_在线之家",
@@ -142,7 +152,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://dxawi.github.io/6/zxzj.json"
+            "ext": "https://gitea.com/dxa/6/raw/branch/main/zxzj.json"
         },
         {
             "key":"csp_biubiu_瓜皮TV",
@@ -202,7 +212,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"http://home.jundie.top:81/ray/json/libv.json"
+            "ext":"https://gitea.com/dxa/6/raw/branch/main/libv.json"
         },
         {
             "key": "剧白白",
@@ -212,7 +222,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://home.jundie.top:81/ray/json/jbb.json"
+            "ext": "https://gitea.com/dxa/6/raw/branch/main/jbb.json"
         },   
         {
             "key":"csp_xpath_dm84",
@@ -222,7 +232,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"http://home.jundie.top:81/ray/json/dm84.json"
+            "ext":"https://gitea.com/dxa/6/raw/branch/main/dm84.json"
         },    
         {
             "key": "FindZY",
