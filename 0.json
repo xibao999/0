@@ -91,7 +91,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://dxawi.github.io/6/zxzj.json"
+            "ext":"https://gitea.com/dxa/Box/raw/branch/master/sub/Zxzj.json"
+            //"ext": "https://dxawi.github.io/6/zxzj.json"
         },
         {
             "key": "csp_XBiubiubiubiu_口袋影院",
