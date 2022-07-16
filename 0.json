@@ -65,6 +65,24 @@
             "filterable":1
         },
         {
+            "key": "Kuaikan",
+            "name": "快看",
+            "type": 3,
+            "api": "csp_Kuaikan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        }, 
+        {
+            "key": "Nfyun",
+            "name": "Nf云",
+            "type": 3,
+            "api": "csp_Nfyun",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key":"If101",
             "name": "If101(需翻墙)",
             "type":3,
@@ -141,6 +159,16 @@
              "quickSearch":1,
              "filterable":1,
              "ext":"https://300ys.xyz/mogai_api.php/v1.vod"
+        },
+        {
+            "key": "9E03",
+            "name": "9E03(v2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://vod.9e03.com/lvdou_api.php/v1.vod"
         },
         {
             "key": "csp_biubiu_555电影",
@@ -323,6 +351,16 @@
         	"ext": "https://dxawi.github.io/6/bili.json"
         },
         {
+            "key": "zhaozy",
+            "name": "找资源",
+            "type": 3,
+            "api": "csp_Zhaozy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext":"27b06d5221a24199b15f2e573d847430"
+        },
+        {
             "key": "Gitcafe",
             "name": "小纸条",
             "type": 3,
@@ -330,7 +368,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "27b06d5221a24199b15f2e573d847430"
+            "ext":"27b06d5221a24199b15f2e573d847430"
         },
         {
             "key":"AliPS",
@@ -340,7 +378,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"dcbc975ad0684eb5a498ecd1836272e6"
+            "ext":"27b06d5221a24199b15f2e573d847430"
         },
         {
             "key":"push_agent",
@@ -761,5 +799,6 @@
         "cms.qdwght.com"
     ],
     "wallpaper": "https://picsum.photos/1080",
-    "spider": "https://gitea.com/dxa/1/raw/branch/main/custom_spider.jar;md5;6fa1249ae7beeb0222a05db1bc58fb26"
+    //"spider": "https://gitea.com/dxa/1/raw/branch/main/custom_spider.jar;md5;6fa1249ae7beeb0222a05db1bc58fb26"
+    "spider": "https://gitea.com/dxa/1/raw/branch/main/ts.jar;md5;22fcb4c30ade0861dea05cd265b6b233"
 }
