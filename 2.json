@@ -65,6 +65,15 @@
             "filterable":1
         },
         {
+            "key": "zxzj",
+            "name": "在线之家",
+            "type": 3,
+            "api": "csp_Zxzj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "csp_IKan",
             "name": "爱看",
             "type": 3,
