@@ -407,7 +407,7 @@
 
     
     "parses": [
-     {
+    {
     "name":"解析聚合","type":3,"url":"Demo"
     },
     {
@@ -426,7 +426,7 @@
     "type": 1,
     "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
     "ext": {"flag": ["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"]
-    }
+    },
     {
     "name": "9",
     "type": 1,
