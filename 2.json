@@ -173,6 +173,16 @@
             "ext":"https://gitea.com/dxa/6/raw/branch/main/gptv.json"
         },
         {
+            "key":"csp_biubiu_厂长资源",
+            "name": "厂长资源(XB)",
+            "type":3,
+            "api":"csp_XBiubiu",
+            "searchable":0,
+            "quickSearch":0,
+            "filterable":0,
+            "ext":"https://gitea.com/dxa/6/raw/branch/main/czzy.json"
+        },
+        {
             "key":"csp_xpath_cokemv",
             "name": "Cokemv(XPF)",
             "type":3,
