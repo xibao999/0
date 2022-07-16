@@ -9,16 +9,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },      
-        {
-            "key":"csp_CZSPP",
-            "name":"厂长",
-            "type":3,
-            "api":"csp_CZSPP",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },
+        },           
         {
             "key":"csp_Bttoo",
             "name": "两个变态",
@@ -29,15 +20,6 @@
             "filterable":1
         },
         {
-            "key":"csp_Auete",
-            "name": "Auete",
-            "type":3,
-            "api":"csp_Auete",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },  
-        {
             "key": "csp_Cokemv",
             "name": "Cokemv",
             "type": 3,
@@ -47,10 +29,28 @@
             "filterable": 1
         },  
         {
+            "key":"csp_Auete",
+            "name": "Auete",
+            "type":3,
+            "api":"csp_Auete",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },  
+        {
             "key":"小苹果",
             "name": "小苹果",
             "type":3,
             "api":"csp_LiteApple",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
+            "key":"csp_CZSPP",
+            "name":"厂长",
+            "type":3,
+            "api":"csp_CZSPP",
             "searchable":1,
             "quickSearch":1,
             "filterable":1
