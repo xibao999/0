@@ -250,7 +250,7 @@
              "api":"csp_AliPanSou",
              "searchable":1,
              "quickSearch":1,
-             "filterable":1
+             "filterable":1,
              "ext": "ad3c78559a494bde814f1a6c8c40db51"
         },
         {
@@ -260,7 +260,8 @@
             "api":"csp_PushAgent",
             "searchable":0,
             "quickSearch":0,
-            "filterable":0
+            "filterable":0,
+            "ext": "ad3c78559a494bde814f1a6c8c40db51"
         }
     ],
     
