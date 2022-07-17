@@ -110,6 +110,16 @@
             "filterable":1
         },
         {
+            "key":"csp_biubiu_瓜皮TV",
+            "name": "瓜皮TV(XB)",
+            "type":3,
+            "api":"csp_XBiubiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://gitea.com/dxa/6/raw/branch/main/gptv.json"
+        },      
+        {
             "key": "csp_XBiubiubiubiu_lezhu",
             "name": "乐猪(XB)",
             "type": 3,
@@ -118,26 +128,6 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://dxawi.github.io/6/lzys.json"
-        },
-        {
-            "key": "csp_biubiu_在线之家",
-            "name": "在线之家(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://dxawi.github.io/6/zxzj.json"
-        },
-        {
-            "key": "csp_XBiubiubiubiu_口袋影院",
-            "name": "口袋影院(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gitea.com/dxa/6/raw/branch/main/kdyy.json"
         },
         {
             "key": "csp_XBiubiubiubiu_ysgc",
@@ -149,26 +139,6 @@
             "filterable": 0,
             "ext": "https://dxawi.github.io/6/ysgc.json"
         },      
-        {
-            "key": "美剧虫",
-            "name": "美剧虫(v1)",
-            "type": 3,
-            "api": "csp_AppYs",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://meijuchong.com/api.php/v1.vod"
-        },
-        {
-             "key":"300看世界",
-             "name": "300看世界(v2)",
-             "type":3,
-             "api":"csp_AppYsV2",
-             "searchable":1,
-             "quickSearch":1,
-             "filterable":1,
-             "ext":"https://300ys.xyz/mogai_api.php/v1.vod"
-        },
         //{
         //    "key": "9E03",
         //    "name": "9E03(v2)",
@@ -190,6 +160,16 @@
             "ext": "https://dxawi.github.io/6/555dy.json"
         },
         {
+            "key": "csp_XBiubiubiubiu_口袋影院",
+            "name": "口袋影院(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://gitea.com/dxa/6/raw/branch/main/kdyy.json"
+        },
+        {
             "key": "csp_biubiu_蓝光影院",
             "name": "蓝光影院(XB)",
             "type": 3,
@@ -199,16 +179,6 @@
             "filterable": 0,
             "ext": "https://dxawi.github.io/6/lgyy.json"
         },
-        {
-            "key":"csp_biubiu_瓜皮TV",
-            "name": "瓜皮TV(XB)",
-            "type":3,
-            "api":"csp_XBiubiu",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://gitea.com/dxa/6/raw/branch/main/gptv.json"
-        },      
         {
             "key":"csp_biubiu_爱港剧",
             "name": "爱港剧(XB)",
@@ -258,6 +228,36 @@
             "quickSearch":0,
             "filterable":0,
             "ext":"https://gitea.com/dxa/6/raw/branch/main/czzy.json"
+        },
+        {
+            "key": "csp_biubiu_在线之家",
+            "name": "在线之家(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://dxawi.github.io/6/zxzj.json"
+        },
+        {
+            "key": "美剧虫",
+            "name": "美剧虫(v1)",
+            "type": 3,
+            "api": "csp_AppYs",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://meijuchong.com/api.php/v1.vod"
+        },
+        {
+             "key":"300看世界",
+             "name": "300看世界(v2)",
+             "type":3,
+             "api":"csp_AppYsV2",
+             "searchable":1,
+             "quickSearch":1,
+             "filterable":1,
+             "ext":"https://300ys.xyz/mogai_api.php/v1.vod"
         },
         {
             "key":"csp_xpath_lezhutv",

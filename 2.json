@@ -74,36 +74,6 @@
             "filterable":1
         },
         {
-            "key": "美剧虫",
-            "name": "美剧虫(v1)",
-            "type": 3,
-            "api": "csp_AppYs",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://meijuchong.com/api.php/v1.vod"
-        },
-        {
-             "key":"300看世界",
-             "name": "300看世界(v2)",
-             "type":3,
-             "api":"csp_AppYsV2",
-             "searchable":1,
-             "quickSearch":1,
-             "filterable":1,
-             "ext":"https://300ys.xyz/mogai_api.php/v1.vod"
-        },
-        {
-            "key": "csp_XBiubiubiubiu_lezhu",
-            "name": "乐猪(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gitea.com/dxa/6/raw/branch/main/lzys.json"
-        },
-        {
             "key":"csp_biubiu_libv",
             "name": "LIBVIO(XB)",
             "type":3,
@@ -122,6 +92,26 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://gitea.com/dxa/6/raw/branch/main/zxzj.json"
+        },
+        {
+            "key":"csp_biubiu_瓜皮TV",
+            "name": "瓜皮TV(XB)",
+            "type":3,
+            "api":"csp_XBiubiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://gitea.com/dxa/6/raw/branch/main/gptv.json"
+        },
+        {
+            "key": "csp_XBiubiubiubiu_lezhu",
+            "name": "乐猪(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://gitea.com/dxa/6/raw/branch/main/lzys.json"
         },
         {
             "key": "csp_XBiubiubiubiu_ysgc",
@@ -154,16 +144,6 @@
             "ext": "https://gitea.com/dxa/6/raw/branch/main/555b.json"
         },
         {
-            "key":"csp_biubiu_瓜皮TV",
-            "name": "瓜皮TV(XB)",
-            "type":3,
-            "api":"csp_XBiubiu",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://gitea.com/dxa/6/raw/branch/main/gptv.json"
-        },
-        {
             "key":"csp_biubiu_厂长资源",
             "name": "厂长资源(XB)",
             "type":3,
@@ -172,6 +152,26 @@
             "quickSearch":0,
             "filterable":0,
             "ext":"https://gitea.com/dxa/6/raw/branch/main/czzy.json"
+        },
+        {
+            "key": "美剧虫",
+            "name": "美剧虫(v1)",
+            "type": 3,
+            "api": "csp_AppYs",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://meijuchong.com/api.php/v1.vod"
+        },
+        {
+             "key":"300看世界",
+             "name": "300看世界(v2)",
+             "type":3,
+             "api":"csp_AppYsV2",
+             "searchable":1,
+             "quickSearch":1,
+             "filterable":1,
+             "ext":"https://300ys.xyz/mogai_api.php/v1.vod"
         },
         {
             "key":"csp_xpath_cokemv",
