@@ -74,14 +74,14 @@
             "filterable":1
         },
         {
-            "key":"csp_biubiu_libv",
+            "key":"csp_biubiu_LIBVIO",
             "name": "LIBVIO(XB)",
             "type":3,
             "api": "csp_XBiubiu",
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext": "https://gitea.com/dxa/6/raw/branch/main/libvio.json"
+            "ext": "https://gitea.com/dxa/6/raw/branch/main/libv.json"
         },
         {
             "key": "csp_biubiu_在线之家",
@@ -205,13 +205,13 @@
         },
         {
             "key":"csp_xpath_libv",
-            "name":"LIBVIO(XPF)",
+            "name": "LIBVIO(XPF)",
             "type":3,
             "api":"csp_XPathMacFilter",
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://gitea.com/dxa/6/raw/branch/main/libv.json"
+            "ext":"https://gitea.com/dxa/6/raw/branch/main/libvp.json"
         },
         {
             "key": "剧白白",
