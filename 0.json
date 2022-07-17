@@ -110,6 +110,36 @@
             "filterable":1
         },
         {
+            "key": "zhaozy",
+            "name": "找资源",
+            "type": 3,
+            "api": "csp_Zhaozy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "ad3c78559a494bde814f1a6c8c40db51"
+        },
+        {
+            "key": "Gitcafe",
+            "name": "小纸条",
+            "type": 3,
+            "api": "csp_Gitcafe",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "ad3c78559a494bde814f1a6c8c40db51"
+        },
+        {
+            "key":"AliPS",
+            "name":"盘搜",
+            "type":3,
+            "api":"csp_AliPS",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext": "ad3c78559a494bde814f1a6c8c40db51"
+        },
+        {
             "key":"csp_biubiu_瓜皮TV",
             "name": "瓜皮TV(XB)",
             "type":3,
@@ -358,36 +388,6 @@
             "quickSearch": 1,
             "filterable": 1,
         	"ext": "https://dxawi.github.io/6/bili.json"
-        },
-        {
-            "key": "zhaozy",
-            "name": "找资源",
-            "type": 3,
-            "api": "csp_Zhaozy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "ad3c78559a494bde814f1a6c8c40db51"
-        },
-        {
-            "key": "Gitcafe",
-            "name": "小纸条",
-            "type": 3,
-            "api": "csp_Gitcafe",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "ad3c78559a494bde814f1a6c8c40db51"
-        },
-        {
-            "key":"AliPS",
-            "name":"盘搜",
-            "type":3,
-            "api":"csp_AliPS",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext": "ad3c78559a494bde814f1a6c8c40db51"
         },
         {
             "key":"push_agent",
