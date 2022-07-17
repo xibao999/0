@@ -169,16 +169,6 @@
             "filterable": 0,
             "ext": "https://dxawi.github.io/6/ysgc.json"
         },      
-        //{
-        //    "key": "9E03",
-        //    "name": "9E03(v2)",
-        //    "type": 3,
-        //    "api": "csp_AppYsV2",
-        //    "searchable": 1,
-        //    "quickSearch": 1,
-        //    "filterable": 1,
-        //    "ext": "https://vod.9e03.com/lvdou_api.php/v1.vod"
-        //},
         {
             "key": "csp_biubiu_555电影",
             "name": "555电影(XB)",
@@ -288,6 +278,16 @@
              "quickSearch":1,
              "filterable":1,
              "ext":"https://300ys.xyz/mogai_api.php/v1.vod"
+        },
+        {
+            "key": "9E03",
+            "name": "9E03(v2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://vod.9e03.com/lvdou_api.php/v1.vod"
         },
         {
             "key":"csp_xpath_lezhutv",
@@ -416,15 +416,9 @@
 
     
     "parses": [
-    {
-    "name":"解析聚合","type":3,"url":"Demo"
-    },
-    {
-    "name":"Json并发","type":2,"url":"Parallel"
-    },
-    {   
-    "name":"Json轮询", "type":2, "url":"Sequence"
-    },  
+    {"name":"解析聚合","type":3,"url":"Demo"},
+    {"name":"Json并发","type":2,"url":"Parallel"},
+    {"name":"Json轮询", "type":2, "url":"Sequence"},  
     {
     "name": "fuqi",
     "type": 1,
@@ -716,6 +710,5 @@
         "cms.qdwght.com"
     ],
     "wallpaper": "https://picsum.photos/1080",
-    //"spider": "https://gitea.com/dxa/1/raw/branch/main/custom_spider.jar;md5;6fa1249ae7beeb0222a05db1bc58fb26"
     "spider": "https://gitea.com/dxa/1/raw/branch/main/ts.jar;md5;22fcb4c30ade0861dea05cd265b6b233"
 }
