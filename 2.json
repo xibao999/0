@@ -3,7 +3,7 @@
     "sites": [     
         {
             "key": "csp_77",
-            "name": "七七",
+            "name": "七七(爬虫)",
             "type": 3,
             "api": "csp_Kunyu77",
             "searchable": 1,
@@ -12,7 +12,7 @@
         },
         {
             "key":"csp_CZSPP",
-            "name":"厂长",
+            "name":"厂长(爬虫)",
             "type":3,
             "api":"csp_CZSPP",
             "searchable":1,
@@ -21,7 +21,7 @@
         },
         {
             "key":"小苹果",
-            "name": "小苹果",
+            "name": "小苹果(爬虫)",
             "type":3,
             "api":"csp_LiteApple",
             "searchable":1,
@@ -30,7 +30,7 @@
         },
         {
             "key": "csp_Cokemv",
-            "name": "Cokemv",
+            "name": "Cokemv(爬虫)",
             "type": 3,
             "api": "csp_Cokemv",
             "searchable": 1,
@@ -48,7 +48,7 @@
         },
         {
             "key":"360",
-            "name": "360",
+            "name": "360(爬虫)",
             "type":3,
             "api":"csp_SP360",
             "searchable":1,
@@ -187,7 +187,7 @@
         },
         {
             "key":"csp_AliPanSou",
-            "name": "盘搜",
+            "name": "盘搜(仅搜索)",
             "type":3,
             "api":"csp_AliPanSou",
             "searchable":1,
