@@ -36,7 +36,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },  
+        },
         {
             "key":"csp_Nbys",
             "name": "泥巴(需翻墙)",
@@ -104,7 +104,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://gitea.com/dxa/6/raw/branch/main/ysgc.json"
-        },      
+        },
         {
             "key": "csp_XBiubiubiubiu_口袋影院",
             "name": "口袋影院(XB)",
@@ -154,7 +154,7 @@
             "quickSearch":1,
             "filterable":0,
             "ext":"https://gitea.com/dxa/6/raw/branch/main/agj.json"
-        },    
+        },
         {
             "key":"csp_biubiu_真不卡cerrd",
             "name": "真不卡(XB)",
@@ -164,16 +164,6 @@
             "quickSearch":1,
             "filterable":0,
             "ext":"https://gitea.com/dxa/6/raw/branch/main/zbk.json"
-        },   
-        {
-            "key":"csp_biubiu_厂长资源",
-            "name": "厂长资源(XB)",
-            "type":3,
-            "api":"csp_XBiubiu",
-            "searchable":0,
-            "quickSearch":0,
-            "filterable":0,
-            "ext":"https://gitea.com/dxa/6/raw/branch/main/czzy.json"
         },
         {
             "key": "美剧虫",
@@ -184,76 +174,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://meijuchong.com/api.php/v1.vod"
-        },
-        {
-            "key":"csp_xpath_zxzj",
-            "name": "在线之家(XPF)",
-            "type":3,
-            "api":"csp_XPathFilter",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://gitea.com/dxa/6/raw/branch/main/zxzjp.json"
-        },
-        {
-            "key":"csp_xpath_libv",
-            "name": "Libvio(XPF)",
-            "type":3,
-            "api":"csp_XPathMacFilter",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://gitea.com/dxa/6/raw/branch/main/libvp.json"
-        },
-        {
-            "key":"csp_xpath_cokemv",
-            "name": "Cokemv(XPF)",
-            "type":3,
-            "api":"csp_XPathFilter",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://gitea.com/dxa/6/raw/branch/main/cokep.json"
-        },
-        {
-            "key":"csp_xpath_ddg",
-            "name": "达达龟(XPF)",
-            "type":3,
-            "api":"csp_XPathMacFilter",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://gitea.com/dxa/6/raw/branch/main/ddgp.json"
-        },
-        {
-            "key": "剧白白",
-            "name": "剧白白(XPF)",
-            "type": 3,
-            "api": "csp_XPathMacFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitea.com/dxa/6/raw/branch/main/jbbp.json"
-        },   
-        {
-            "key":"csp_xpath_dm84",
-            "name": "动漫巴士(XPF)",
-            "type":3,
-            "api":"csp_XPathFilter",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://gitea.com/dxa/6/raw/branch/main/dm84.json"
-        },    
-        {
-            "key": "csp_xpath_网络搜集库qiumi",
-            "name":"球迷看球(XPF)️️️",
-            "type": 3,
-            "api": "csp_XPathFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitea.com/dxa/6/raw/branch/main/qm.json"
         },
         {
             "key": "Gitcafe",
