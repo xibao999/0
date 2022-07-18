@@ -140,16 +140,6 @@
             "ext": "ad3c78559a494bde814f1a6c8c40db51"
         },
         {
-            "key":"csp_biubiu_瓜皮TV",
-            "name": "瓜皮TV(XB)",
-            "type":3,
-            "api":"csp_XBiubiu",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://gitea.com/dxa/6/raw/branch/main/gptv.json"
-        },      
-        {
             "key": "csp_XBiubiubiubiu_lezhu",
             "name": "乐猪(XB)",
             "type": 3,
@@ -240,45 +230,15 @@
             "ext":"https://gitea.com/dxa/6/raw/branch/main/ddg.json"
         },
         {
-            "key":"csp_biubiu_厂长资源",
-            "name": "厂长资源(XB)",
-            "type":3,
-            "api":"csp_XBiubiu",
-            "searchable":0,
-            "quickSearch":0,
-            "filterable":0,
-            "ext":"https://gitea.com/dxa/6/raw/branch/main/czzy.json"
-        },
-        {
-            "key": "csp_biubiu_在线之家",
-            "name": "在线之家(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gitea.com/dxa/6/raw/branch/main/zxzj.json"
-        },
-        {
-            "key": "csp_XBiubiubiubiu_cokemv",
-            "name": "Cokemv(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gitea.com/dxa/6/raw/branch/main/coke.json"
-        },
-        {
-            "key":"csp_biubiu_LIBVIO",
-            "name":"Libvio(XB)",
+            "key":"csp_biubiu_瓜皮TV",
+            "name": "瓜皮TV(XB)",
             "type":3,
             "api":"csp_XBiubiu",
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://gitea.com/dxa/6/raw/branch/main/libv.json"
-        },
+            "ext":"https://gitea.com/dxa/6/raw/branch/main/gptv.json"
+        },      
         {
             "key": "美剧虫",
             "name": "美剧虫(v1)",
@@ -288,66 +248,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://meijuchong.com/api.php/v1.vod"
-        },
-        {
-            "key":"csp_xpath_lezhutv",
-            "name": "乐猪TV(XPM)",
-            "type":3,
-            "api":"csp_XPathMac",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://gitea.com/dxa/6/raw/branch/main/lztv.json"
-        },
-        {
-            "key":"csp_xpath_ddg",
-            "name": "达达龟(XPF)",
-            "type":3,
-            "api":"csp_XPathMacFilter",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://gitea.com/dxa/6/raw/branch/main/ddgp.json"
-        },
-        {
-            "key": "剧白白",
-            "name": "剧白白(XPF)",
-            "type": 3,
-            "api": "csp_XPathMacFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitea.com/dxa/6/raw/branch/main/jbbp.json"
-        },   
-        {
-            "key":"csp_xpath_zxzj",
-            "name": "在线之家(XPF)",
-            "type":3,
-            "api":"csp_XPathFilter",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://gitea.com/dxa/6/raw/branch/main/zxzjp.json"
-        },
-        {
-            "key":"csp_xpath_cokemv",
-            "name": "Cokemv(XPF)",
-            "type":3,
-            "api":"csp_XPathFilter",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://gitea.com/dxa/6/raw/branch/main/cokep.json"
-        },
-        {
-            "key":"csp_xpath_libv",
-            "name": "Libvio(XPF)",
-            "type":3,
-            "api":"csp_XPathMacFilter",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://gitea.com/dxa/6/raw/branch/main/libvp.json"
         },
         {
             "key":"csp_xpath_dm84",
