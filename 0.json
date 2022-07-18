@@ -129,7 +129,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://gitea.com/dxa/6/raw/branch/main/gptv.json"
+            "ext":"https://dxawi.github.io/6/gptv.json"
         },      
         {
             "key": "csp_XBiubiubiubiu_lezhu",
@@ -169,7 +169,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://gitea.com/dxa/6/raw/branch/main/kdyy.json"
+            "ext": "https://dxawi.github.io/6/kdyy.json"
         },
         {
             "key": "csp_biubiu_蓝光影院",
@@ -249,7 +249,7 @@
             "searchable":0,
             "quickSearch":0,
             "filterable":0,
-            "ext":"https://gitea.com/dxa/6/raw/branch/main/czzy.json"
+            "ext":"https://dxawi.github.io/6/czzy.json"
         },
         {
             "key": "csp_biubiu_在线之家",
@@ -289,7 +289,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://gitea.com/dxa/6/raw/branch/main/libvp.json"
+            "ext":"https://dxawi.github.io/6/libvp.json"
         },
         {
             "key":"csp_xpath_cokemv",
@@ -299,7 +299,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://gitea.com/dxa/6/raw/branch/main/cokep.json"
+            "ext":"https://dxawi.github.io/6/cokep.json"
         },
         {
             "key":"csp_xpath_ddg",
@@ -309,7 +309,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://gitea.com/dxa/6/raw/branch/main/ddgp.json"
+            "ext":"https://dxawi.github.io/6/ddgp.json"
         },
         {
             "key":"csp_xpath_zxzj",
@@ -319,7 +319,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://gitea.com/dxa/6/raw/branch/main/zxzjp.json"
+            "ext":"https://dxawi.github.io/6/zxzjp.json"
         },
         {
             "key": "剧白白",
