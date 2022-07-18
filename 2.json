@@ -9,24 +9,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },           
-        {
-            "key": "csp_Cokemv",
-            "name": "Cokemv",
-            "type": 3,
-            "api": "csp_Cokemv",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },  
-        {
-            "key":"小苹果",
-            "name": "小苹果",
-            "type":3,
-            "api":"csp_LiteApple",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
         },
         {
             "key":"csp_CZSPP",
@@ -37,6 +19,24 @@
             "quickSearch":1,
             "filterable":1
         },
+        {
+            "key":"小苹果",
+            "name": "小苹果",
+            "type":3,
+            "api":"csp_LiteApple",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
+            "key": "csp_Cokemv",
+            "name": "Cokemv",
+            "type": 3,
+            "api": "csp_Cokemv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },  
         {
             "key":"csp_Nbys",
             "name": "泥巴(需翻墙)",
@@ -126,7 +126,7 @@
             "ext": "https://gitea.com/dxa/6/raw/branch/main/555b.json"
         },
         {
-            "key":"csp_biubiu_剧白白-蓝光",
+            "key":"csp_biubiu_剧白白",
             "name":"剧白白(XB)",
             "type":3,
             "api":"csp_XBiubiu",
@@ -145,6 +145,26 @@
             "filterable":0,
             "ext":"https://gitea.com/dxa/6/raw/branch/main/ddg.json"
         },
+        {
+            "key":"csp_biubiu_爱港剧",
+            "name": "爱港剧(XB)",
+            "type":3,
+            "api":"csp_XBiubiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://gitea.com/dxa/6/raw/branch/main/agj.json"
+        },    
+        {
+            "key":"csp_biubiu_真不卡cerrd",
+            "name": "真不卡(XB)",
+            "type":3,
+            "api":"csp_XBiubiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://gitea.com/dxa/6/raw/branch/main/zbk.json"
+        },   
         {
             "key":"csp_biubiu_厂长资源",
             "name": "厂长资源(XB)",
@@ -166,26 +186,6 @@
             "ext": "https://meijuchong.com/api.php/v1.vod"
         },
         {
-            "key":"csp_xpath_cokemv",
-            "name": "Cokemv(XPF)",
-            "type":3,
-            "api":"csp_XPathFilter",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://gitea.com/dxa/6/raw/branch/main/cokep.json"
-        },
-        {
-            "key":"csp_xpath_ddg",
-            "name": "达达龟(XPF)",
-            "type":3,
-            "api":"csp_XPathMacFilter",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://gitea.com/dxa/6/raw/branch/main/ddgp.json"
-        },
-        {
             "key":"csp_xpath_zxzj",
             "name": "在线之家(XPF)",
             "type":3,
@@ -204,6 +204,26 @@
             "quickSearch":1,
             "filterable":1,
             "ext":"https://gitea.com/dxa/6/raw/branch/main/libvp.json"
+        },
+        {
+            "key":"csp_xpath_cokemv",
+            "name": "Cokemv(XPF)",
+            "type":3,
+            "api":"csp_XPathFilter",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://gitea.com/dxa/6/raw/branch/main/cokep.json"
+        },
+        {
+            "key":"csp_xpath_ddg",
+            "name": "达达龟(XPF)",
+            "type":3,
+            "api":"csp_XPathMacFilter",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://gitea.com/dxa/6/raw/branch/main/ddgp.json"
         },
         {
             "key": "剧白白",
@@ -246,14 +266,14 @@
             "ext": "27b06d5221a24199b15f2e573d847430"
         },
         {
-             "key":"csp_AliPanSou",
-             "name": "盘搜",
-             "type":3,
-             "api":"csp_AliPanSou",
-             "searchable":1,
-             "quickSearch":1,
-             "filterable":1,
-             "ext": "27b06d5221a24199b15f2e573d847430"
+            "key":"csp_AliPanSou",
+            "name": "盘搜",
+            "type":3,
+            "api":"csp_AliPanSou",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext": "27b06d5221a24199b15f2e573d847430"
         },
         {
             "key":"push_agent",
