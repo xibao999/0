@@ -57,7 +57,7 @@
         },
         {
             "key":"csp_biubiu_LIBVIO",
-            "name": "LIBVIO(XB)",
+            "name": "Libvio(XB)",
             "type":3,
             "api": "csp_XBiubiu",
             "searchable":1,
@@ -197,7 +197,7 @@
         },
         {
             "key":"csp_xpath_libv",
-            "name": "LIBVIO(XPF)",
+            "name": "Libvio(XPF)",
             "type":3,
             "api":"csp_XPathMacFilter",
             "searchable":1,
