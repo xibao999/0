@@ -202,6 +202,26 @@
             "ext":"https://dxawi.github.io/6/zbk.json"
         },   
         {
+            "key":"csp_biubiu_剧白白-蓝光",
+            "name":"剧白白(XB)",
+            "type":3,
+            "api":"csp_XBiubiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://dxawi.github.io/6/jbb.json"
+        },
+        {
+            "key":"csp_biubiu_达达龟",
+            "name":"达达龟(XB)",
+            "type":3,
+            "api":"csp_XBiubiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://dxawi.github.io/6/ddg.json"
+        },
+        {
             "key": "csp_XBiubiubiubiu_cokemv",
             "name": "Cokemv(XB)",
             "type": 3,
@@ -331,6 +351,16 @@
             "filterable":0,
             "ext":"https://dxawi.github.io/6/dm84.json"
         },    
+        {
+            "key": "csp_xpath_网络搜集库qiumi",
+            "name":"球迷看球(XPF)️️️",
+            "type": 3,
+            "api": "csp_XPathFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://dxawi.github.io/6/qm.json"
+        },
         {
             "key": "csp_xpath_网络搜集库huaya",
             "name": "虎牙(XP)",
