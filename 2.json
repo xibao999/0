@@ -38,6 +38,24 @@
             "filterable": 1
         },
         {
+            "key": "Nfyun",
+            "name": "Nfyun(爬虫)",
+            "type": 3,
+            "api": "csp_Nfyun",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Ikan",
+            "name": "Ikan(爬虫)",
+            "type": 3,
+            "api": "csp_IKan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key":"csp_Nbys",
             "name": "泥巴(需翻墙)",
             "type":3,
