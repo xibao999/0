@@ -38,6 +38,15 @@
             "filterable":1
         },
         {
+            "key": "小熊",
+            "name": "小熊TV",
+            "type": 3,
+            "api": "csp_Xxys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "csp_Cokemv",
             "name": "Cokemv",
             "type": 3,
@@ -69,6 +78,15 @@
             "name": "Nfyun",
             "type": 3,
             "api": "csp_Nfyun",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Ikan",
+            "name": "Ikan",
+            "type": 3,
+            "api": "csp_IKan",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
