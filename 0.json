@@ -150,6 +150,16 @@
             "ext": "https://gitea.com/dxa/6/raw/branch/main/lzys.json"
         },
         {
+            "key":"csp_biubiu_蓝莓影视",
+            "name": "蓝莓影视(XB)",
+            "type":3,
+            "api": "csp_XBiubiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext": "https://gitea.com/dxa/1/raw/branch/main/xb/a08-lmys.js"
+        },
+        {
             "key": "csp_XBiubiubiubiu_ysgc",
             "name": "影视工厂(XB)",
             "type": 3,
