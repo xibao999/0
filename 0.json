@@ -150,7 +150,7 @@
             "ext": "https://gitea.com/dxa/6/raw/branch/main/lzys.json"
         },
         {
-            "key":"csp_biubiu_蓝莓影视",
+            "key":"csp_biubiu_lanmeiguojiang",
             "name": "蓝莓影视(XB)",
             "type":3,
             "api": "csp_XBiubiu",
