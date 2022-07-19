@@ -76,14 +76,14 @@
             "ext": "https://gitea.com/dxa/6/raw/branch/main/zxzj.json"
         },
         {
-            "key":"csp_biubiu_瓜皮TV",
-            "name": "瓜皮TV(XB)",
+            "key":"csp_biubiu_蓝莓影视",
+            "name": "蓝莓影视(XB)",
             "type":3,
-            "api":"csp_XBiubiu",
+            "api": "csp_XBiubiu",
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://gitea.com/dxa/6/raw/branch/main/gptv.json"
+            "ext": "https://gitea.com/dxa/1/raw/branch/main/xb/a08-lmys.js"
         },
         {
             "key": "csp_XBiubiubiubiu_lezhu",
@@ -144,6 +144,16 @@
             "quickSearch":1,
             "filterable":0,
             "ext":"https://gitea.com/dxa/6/raw/branch/main/ddg.json"
+        },
+        {
+            "key":"csp_biubiu_瓜皮TV",
+            "name": "瓜皮TV(XB)",
+            "type":3,
+            "api":"csp_XBiubiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://gitea.com/dxa/6/raw/branch/main/gptv.json"
         },
         {
             "key":"csp_biubiu_爱港剧",
