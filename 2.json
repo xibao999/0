@@ -86,8 +86,8 @@
             "ext": "https://gitea.com/dxa/6/raw/branch/main/lzys.json"
         },
         {
-            "key": "csp_XBiubiubiubiu_蓝莓影视",
-            "name": "蓝莓影视(XB)",
+            "key": "csp_XBiubiubiubiu_蓝莓果酱",
+            "name": "蓝莓果酱(XB)",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
