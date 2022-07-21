@@ -123,11 +123,11 @@
             "key": "Gitcafe",
             "name": "小纸条",
             "type": 3,
-            "api": "csp_Gitcafe",
+            "api": "csp_GitCafe",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "ad3c78559a494bde814f1a6c8c40db51"
+            "ext": "27b06d5221a24199b15f2e573d847430"
         },
         {
             "key":"AliPS",
