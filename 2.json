@@ -38,15 +38,6 @@
             "filterable": 1
         },
         {
-            "key":"csp_Auete",
-            "name": "Auete(爬虫)",
-            "type":3,
-            "api":"csp_Auete",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },  
-        {
             "key":"csp_Nbys",
             "name": "泥巴(需翻墙)",
             "type":3,
