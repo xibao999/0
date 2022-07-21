@@ -240,16 +240,6 @@
             "ext":"https://dxawi.github.io/6/jbb.json"
         },
         {
-            "key":"csp_biubiu_达达龟",
-            "name":"达达龟(XB)",
-            "type":3,
-            "api":"csp_XBiubiu",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://dxawi.github.io/6/ddg.json"
-        },
-        {
             "key":"csp_biubiu_瓜皮TV",
             "name": "瓜皮TV(XB)",
             "type":3,
