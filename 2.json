@@ -233,14 +233,39 @@
     "url":"https://jx.parwix.com:4433/player/?url="
     },
     {
-    "name":"play",
+    "name":"无名",
     "type":0,
-    "url":"https://www.playm3u8.cn/jiexi.php?url="
+    "url":"https://www.administratorw.com/video.php?url="
     },
     {
-    "name":"1717",
+    "name":"180",
     "type":0,
-    "url":"https://www.1717yun.com/jx/ty.php?url="
+    "url":"https://jx.000180.top/jx/?url="
+    },
+    {
+    "name":"123",
+    "type":0,
+    "url":"https://parse.123mingren.com/?url="
+    },
+    {
+    "name":"yemu",
+    "type":0,
+    "url":"https://www.yemu.xyz/?url="
+    },
+    {
+    "name":"nxflv",
+    "type":0,
+    "url":"https://www.nxflv.com/?url="
+    },
+    {
+    "name":"0523",
+    "type":0,
+    "url":"https://go.yh0523.cn/y.cy?url="
+    },
+    {
+    "name":"gai",
+    "type":0,
+    "url":"https://www.gai4.com/?url="
     },
     {
     "name":"okjx",
