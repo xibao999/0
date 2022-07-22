@@ -165,8 +165,6 @@
             "filterable": 1,
             "ext": "https://meijuchong.com/api.php/v1.vod"
         },
-        {"key":"csp_Wmkk","name":"🥇看看(SP)","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},     
-
         {
             "key": "Gitcafe",
             "name": "小纸条",
