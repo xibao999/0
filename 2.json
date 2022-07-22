@@ -233,16 +233,6 @@
     "url":"https://jx.parwix.com:4433/player/?url="
     },
     {
-    "name":"无名",
-    "type":0,
-    "url":"https://www.administratorw.com/video.php?url="
-    },
-    {
-    "name":"123",
-    "type":0,
-    "url":"https://parse.123mingren.com/?url="
-    },
-    {
     "name":"yemu",
     "type":0,
     "url":"https://www.yemu.xyz/?url="
@@ -251,21 +241,6 @@
     "name":"nxflv",
     "type":0,
     "url":"https://www.nxflv.com/?url="
-    },
-    {
-    "name":"m3u8",
-    "type":0,
-    "url":"https://jx.m3u8.tv/jiexi/?url="
-    },
-    {
-    "name":"dm",
-    "type":0,
-    "url":"https://dmjx.m3u8.tv/?url="
-    },
-    {
-    "name":"json",
-    "type":0,
-    "url":"https://json.m3u8.tv:7788/json.php?url="
     },
     {
     "name":"gai",
