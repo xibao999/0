@@ -225,7 +225,7 @@
     "name": "2",
     "type": 1,
     "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
-    "ext": {"flag": ["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"]}
+    "ext": {"flag": ["qq","qiyi","mgtv","youku","letv","sohu","xigua","cntv","1905"]}
     },
     {
     "name":"21",
@@ -262,6 +262,7 @@
         "腾讯",
         "爱奇艺",
         "奇艺",
+        "CNTV",
         "ltnb",
         "rx",
         "CL4K",
