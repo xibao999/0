@@ -228,6 +228,26 @@
     "ext": {"flag": ["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"]}
     },
     {
+    "name":"a",
+    "type":0,
+    "url":"http://jiexi.92fz.cn/player/vip.php?url="
+    },
+    {
+    "name":"b",
+    "type":0,
+    "url":"http://jiexi.071811.cc/jx2.php?url="
+    },
+    {
+    "name":"c",
+    "type":0,
+    "url":"http://api.wlzhan.com/sudu/?url="
+    },
+    {
+    "name":"d",
+    "type":0,
+    "url":"http://beaacc.com/api.php?url="
+    },
+    {
     "name":"21",
     "type":0,
     "url":"https://okjx.cc/?url="
