@@ -233,6 +233,16 @@
     "url":"https://jx.parwix.com:4433/player/?url="
     },
     {
+    "name":"play",
+    "type":0,
+    "url":"https://www.playm3u8.cn/jiexi.php?url="
+    },
+    {
+    "name":"1717",
+    "type":0,
+    "url":"https://www.1717yun.com/jx/ty.php?url="
+    },
+    {
     "name":"okjx",
     "type":0,
     "url":"https://okjx.cc/?url="
