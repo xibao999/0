@@ -222,53 +222,18 @@
     "url":"Sequence"
     },  
     {
-    "name": "2",
+    "name": "ceshi",
     "type": 1,
     "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
     "ext": {"flag": ["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"]}
     },
     {
-    "name":"a",
-    "type":0,
-    "url":"https://z1.m1907.cn/?jx="
-    },
-    {
-    "name":"b",
+    "name":"parwix",
     "type":0,
     "url":"https://jx.parwix.com:4433/player/?url="
     },
     {
-    "name":"c",
-    "type":0,
-    "url":"https://vip.bljiex.cc/?v="
-    },
-    {
-    "name":"d",
-    "type":0,
-    "url":"https://api.jiexi.la/?url="
-    },
-    {
-    "name":"e",
-    "type":0,
-    "url":"https://jiexi.janan.net/jiexi/?url="
-    },
-    {
-    "name":"f",
-    "type":0,
-    "url":"https://vip.laobandq.com/jiexi.php?url="
-    },
-    {
-    "name":"g",
-    "type":0,
-    "url":"https://www.gai4.com/?url="
-    },
-    {
-    "name":"h",
-    "type":0,
-    "url":"https://www.kpezp.cn/jlexi.php?url="
-    },
-    {
-    "name":"21",
+    "name":"okjx",
     "type":0,
     "url":"https://okjx.cc/?url="
     }
