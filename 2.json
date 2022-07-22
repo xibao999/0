@@ -238,11 +238,6 @@
     "url":"https://www.administratorw.com/video.php?url="
     },
     {
-    "name":"180",
-    "type":0,
-    "url":"https://jx.000180.top/jx/?url="
-    },
-    {
     "name":"123",
     "type":0,
     "url":"https://parse.123mingren.com/?url="
@@ -258,9 +253,19 @@
     "url":"https://www.nxflv.com/?url="
     },
     {
-    "name":"0523",
+    "name":"m3u8",
     "type":0,
-    "url":"https://go.yh0523.cn/y.cy?url="
+    "url":"https://jx.m3u8.tv/jiexi/?url="
+    },
+    {
+    "name":"dm",
+    "type":0,
+    "url":"https://dmjx.m3u8.tv/?url="
+    },
+    {
+    "name":"json",
+    "type":0,
+    "url":"https://json.m3u8.tv:7788/json.php?url="
     },
     {
     "name":"gai",
