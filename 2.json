@@ -12,7 +12,7 @@
         },
         {
             "key":"csp_CZSPP",
-            "name":"厂长(爬虫)",
+            "name": "厂长(爬虫)",
             "type":3,
             "api":"csp_CZSPP",
             "searchable":1,
@@ -117,7 +117,7 @@
         },
         {
             "key":"csp_biubiu_剧白白",
-            "name":"剧白白(XB)",
+            "name": "剧白白(XB)",
             "type":3,
             "api":"csp_XBiubiu",
             "searchable":1,
@@ -187,7 +187,7 @@
         },
         {
             "key":"push_agent",
-            "name":"推送",
+            "name": "推送",
             "type":3,
             "api":"csp_PushAgent",
             "searchable":0,
