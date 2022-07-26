@@ -56,6 +56,16 @@
             "filterable":1
         },
         {
+            "key": "csp_biubiu_蓝光影院",
+            "name": "蓝光影院(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://gitea.com/dxa/6/raw/branch/main/lgyy.json"
+        },
+        {
             "key":"csp_biubiu_LIBVIO",
             "name": "Libvio(XB)",
             "type":3,
