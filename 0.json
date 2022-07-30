@@ -83,15 +83,6 @@
             "filterable":1
         },  
         {
-            "key": "Nfyun",
-            "name": "Nfyun(爬虫)",
-            "type": 3,
-            "api": "csp_Nfyun",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "Ikan",
             "name": "爱看(爬虫)",
             "type": 3,
