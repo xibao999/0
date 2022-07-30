@@ -205,6 +205,16 @@
             "ext":"https://gitea.com/dxa/6/raw/branch/main/zbk.json"
         },
         {
+            "key":"csp_xpath_ddg",
+            "name": "达达龟(XPF)",
+            "type":3,
+            "api":"csp_XPathMacFilter",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://gitea.com/dxa/6/raw/branch/main/ddgp.json"
+        },
+        {
             "key":"push_agent",
             "name": "推送",
             "type":3,
