@@ -633,6 +633,5 @@
         "cms.qdwght.com"
     ],
     "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-    "spider": "https://gitea.com/dxa/1/raw/branch/main/ts.jar;md5;b82bb46f98c468c3ba8b9257efe35abe"
-    //"spider": "https://dxawi.github.io/1/ts.jar;md5;b82bb46f98c468c3ba8b9257efe35abe"
+    "spider":"https://gitea.com/dxa/1/raw/branch/main/jar/custom_spider.jar;md5;d63fe3db21b48e04884c2d5303907bd1"
 }
