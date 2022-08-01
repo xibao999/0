@@ -57,6 +57,15 @@
             "filterable":1
         },
         {
+	     	"key": "Ekan_spider",
+	    	"name": "Ekan",
+		    "api": "csp_Ekan",
+	    	"type": 3,
+    		"filterable": 1,
+	    	"quickSearch": 1,
+    		"searchable": 1
+	    },
+        {
             "key":"csp_Wmkk",
             "name": "完美",
             "api":"csp_Wmkk",
