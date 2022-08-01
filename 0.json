@@ -189,6 +189,16 @@
             "ext":"https://gitea.com/dxa/6/raw/branch/main/jbb.json"
         },
         {
+            "key": "csp_biubiu_555电影",
+            "name": "555电影(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://gitea.com/dxa/6/raw/branch/main/555dy.json"
+        },
+        {
             "key": "csp_XBiubiubiubiu_ysgc",
             "name": "影视工厂(XB)",
             "type": 3,
