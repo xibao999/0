@@ -241,6 +241,11 @@
     "url":"Sequence"
     },  
     {
+	"name": "aiku",
+	"type": 1,
+	"url": "https://cache.json.icu/home/api?type=ys&uid=292796&key=bhjknprtuyACFIWY78&url="
+	},
+    {
     "name":"293","type":1,"url":"http://47.98.234.2:7768/api.php?url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}
     },
     {
