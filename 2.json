@@ -57,7 +57,7 @@
         },
         {
             "key":"360",
-            "name": "360(爬虫)",
+            "name": "360(不好用)",
             "type":3,
             "api":"csp_SP360",
             "searchable":1,

@@ -21,7 +21,7 @@
         },
         {
             "key": "zxzj",
-            "name": "在线(爬虫)",
+            "name": "在线之家(爬虫)",
             "type": 3,
             "api": "csp_Zxzj",
             "searchable": 1,
@@ -30,7 +30,7 @@
         },
         {
             "key": "神马影院",
-            "name": "神马(爬虫)",
+            "name": "神马影院(爬虫)",
             "type": 3,
             "api": "csp_Smdyy",
             "searchable": 1,
@@ -102,7 +102,7 @@
         },
         {
             "key":"360",
-            "name": "360(爬虫)",
+            "name": "360(不好用)",
             "type":3,
             "api":"csp_SP360",
             "searchable":1,
