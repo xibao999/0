@@ -149,16 +149,6 @@
             "ext": "ad3c78559a494bde814f1a6c8c40db51"
         },
         {
-            "key": "美剧虫",
-            "name": "美剧虫(v1)",
-            "type": 3,
-            "api": "csp_AppYs",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://meijuchong.com/api.php/v1.vod"
-        },
-        {
             "key": "csp_XBiubiubiubiu_lezhu",
             "name": "乐猪(XB)",
             "type": 3,
@@ -276,7 +266,17 @@
             "searchable":0,
             "quickSearch":0,
             "filterable":0,
-            "ext":"https://dxawi.github.io/6/bttop.json"
+            "ext":"https://dxawi.github.io/6/bt.json"
+        },
+        {
+            "key":"csp_xpath_wanmeikk",
+            "name": "完美看看(XPM)",
+            "type":3,
+            "api":"csp_XPathMac",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://dxawi.github.io/6/wmkkp.json"
         },
         {
             "key":"csp_xpath_dm84",
