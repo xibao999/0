@@ -185,16 +185,6 @@
             "ext":"https://gitea.com/dxa/6/raw/branch/main/zbk.json"
         },
         {
-            "key":"csp_xpath_wanmeikk",
-            "name": "完美看看(XPM)",
-            "type":3,
-            "api":"csp_XPathMac",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://gitea.com/dxa/6/raw/branch/main/wmkkp.json"
-        },
-        {
             "key":"push_agent",
             "name": "推送",
             "type":3,
