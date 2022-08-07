@@ -29,6 +29,16 @@
             "filterable":1
         },
         {
+	        "key": "Lezhu_spider",
+	        "name": "乐猪影视(爬虫)",
+	        "api": "csp_Lezhu",
+        	"type": 3,
+        	"filterable": 1,
+        	"quickSearch": 1,
+        	"searchable": 1,
+        	"ext": ""
+        },
+        {
             "key":"KanSJ_spider",
             "name": "看视界(爬虫)",
             "api":"csp_KanSJ",
