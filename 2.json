@@ -29,14 +29,14 @@
             "filterable":1
         },
         {
-	        "key": "Lezhu_spider",
-	        "name": "乐猪影视(爬虫)",
-	        "api": "csp_Lezhu",
-        	"type": 3,
-        	"filterable": 1,
-        	"quickSearch": 1,
-        	"searchable": 1,
-        	"ext": ""
+	    "key": "Lezhu_spider",
+	    "name": "乐猪影视(爬虫)",
+	    "api": "csp_Lezhu",
+            "type": 3,
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "ext": ""
         },
         {
             "key":"KanSJ_spider",
@@ -58,14 +58,14 @@
             "filterable":1
         },
         {
-	     	"key": "Ekan_spider",
-	    	"name": "Ekan(爬虫)",
-		    "api": "csp_Ekan",
-	    	"type": 3,
-    		"filterable": 1,
-	    	"quickSearch": 1,
-    		"searchable": 1
-	    },
+	    "key": "Ekan_spider",
+	    "name": "Ekan(爬虫)",
+            "api": "csp_Ekan",
+	    "type": 3,
+            "filterable": 1,
+	    "quickSearch": 1,
+            "searchable": 1
+	},
         {
             "key":"csp_Wmkk",
             "name": "完美看看(爬虫)",
@@ -149,14 +149,14 @@
             "ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjoyNTU5OSwiQ3JlYXRlZEF0IjoiMjAyMi0wNy0xN1QwOTo1OTowMy43MzIrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA3LTE3VDA5OjU5OjAzLjczMiswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6ImppYW55aW5nOTk5QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjA1NzRiMzAyLTc5MzUtNGFlZi1hOTBkLTFlZjdjMTU3Y2U2MyIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjU5MjQwNzQzLCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.xB1ZZAaYwrkyLF8bD1KyQKC2tmW0myIZgUQvTVQWELk"
         },
         {
-	    	"key": "酷猫",
-	    	"name": "酷猫影视(爬虫)",
-	    	"type": 3,
-	    	"api": "csp_Kmys",
-	    	"searchable": 1,
-	    	"quickSearch": 1,
-	    	"filterable": 1
-	    }, 
+	    "key": "酷猫",
+	    "name": "酷猫影视(爬虫)",
+	    "type": 3,
+	    "api": "csp_Kmys",
+	    "searchable": 1,
+	    "quickSearch": 1,
+	    "filterable": 1
+	}, 
         {
             "key":"360",
             "name": "360(不好用)",
@@ -392,10 +392,10 @@
     "url":"Sequence"
     }, 
     {
-	"name": "aiku",
-	"type": 1,
-	"url": "https://cache.json.icu/home/api?type=ys&uid=292796&key=bhjknprtuyACFIWY78&url="
-	},
+    "name": "aiku",
+    "type": 1,
+    "url": "https://cache.json.icu/home/api?type=ys&uid=292796&key=bhjknprtuyACFIWY78&url="
+    },
     {
     "name":"293","type":1,"url":"http://47.98.234.2:7768/api.php?url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}
     },
