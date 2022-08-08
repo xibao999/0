@@ -110,15 +110,6 @@
             "filterable": 1
         },
         {
-            "key":"360",
-            "name": "360(不好用)",
-            "type":3,
-            "api":"csp_SP360",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },
-        {
             "key":"If101",
             "name": "If101(需翻墙)",
             "type":3,
@@ -423,74 +414,6 @@
     {"name":"live","urls":[
         "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vZHhhLzEvcmF3L2JyYW5jaC9tYWluL3R2bGl2ZS50eHQ="
     ]}]}],
-   "flags": [
-        "youku",
-        "qq",
-        "iqiyi",
-        "qiyi",
-        "letv",
-        "sohu",
-        "letv",
-        "tudou",
-        "pptv",
-        "mgtv",
-        "wasu",
-        "bilibili",
-        "leduo",
-        "优酷",
-        "芒果",
-        "腾讯",
-        "爱奇艺",
-        "奇艺"
-    ],
-  "parses": [
-    {
-    "name":"解析聚合","type":3,"url":"Demo"
-    },
-    {
-    "name":"Json并发","type":2,"url":"Parallel"
-    },
-    {   
-    "name":"Json轮询", "type":2, "url":"Sequence"
-    },
-    {
-	"name": "aiku",
-	"type": 1,
-	"url": "https://cache.json.icu/home/api?type=ys&uid=292796&key=bhjknprtuyACFIWY78&url="
-	},
-    {
-    "name":"293","type":1,"url":"http://47.98.234.2:7768/api.php?url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}
-    },
-    {
-    "name":"nxflv","type":1,"url":"https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url="
-    },
-    {
-    "name": "ceshi",
-    "type": 1,
-    "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
-    "ext": {"flag": ["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"]}
-    },
-    {
-    "name":"fuqi",
-    "type":1,
-    "url":"https://play.fuqizhishi.com/maotv/API.php?appkey=xiongdimenbieguaiwodingbuzhulegailekey07201538&url="
-    },
-    {
-    "name":"yemu",
-    "type":0,
-    "url":"https://www.yemu.xyz/?url="
-    },
-    {
-    "name":"gai",
-    "type":0,
-    "url":"https://www.gai4.com/?url="
-    },
-    {
-    "name":"okjx",
-    "type":0,
-    "url":"https://okjx.cc/?url="
-    }
-    ],
     "ijk": [
         {
             "group": "软解码",
