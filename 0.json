@@ -158,6 +158,26 @@
             "ext": "ad3c78559a494bde814f1a6c8c40db51"
         },
         {
+            "key": "csp_xpath_wanmeikk",
+            "name": "完美看看(XP)",
+            "type": 3,
+            "api": "csp_XPathMac",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://gitea.com/dxa/6/raw/branch/main/wmkkp.json"
+        },
+        {
+            "key":"csp_xpath_bttoo",
+            "name": "两个变态(XP)",
+            "type":3,
+            "api":"csp_XPath",
+            "searchable":0,
+            "quickSearch":0,
+            "filterable":0,
+            "ext":"https://gitea.com/dxa/6/raw/branch/main/bt.json"
+        },
+        {
             "key": "csp_XBiubiubiubiu_lezhu",
             "name": "乐猪(XB)",
             "type": 3,
@@ -266,16 +286,6 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://gitea.com/dxa/6/raw/branch/main/zxzj.json"
-        },
-        {
-            "key":"csp_xpath_bttoo",
-            "name": "两个变态(XP)",
-            "type":3,
-            "api":"csp_XPath",
-            "searchable":0,
-            "quickSearch":0,
-            "filterable":0,
-            "ext":"https://gitea.com/dxa/6/raw/branch/main/bt.json"
         },
         {
             "key":"csp_xpath_dm84",
