@@ -139,16 +139,6 @@
             "filterable":1
         },
         {
-            "key":"csp_hbys",
-            "name": "简影(爬虫)",
-            "api":"csp_JianYing",
-            "type":3,
-            "filterable":1,
-            "quickSearch":1,
-            "searchable":1,
-            "ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjoyNTU5OSwiQ3JlYXRlZEF0IjoiMjAyMi0wNy0xN1QwOTo1OTowMy43MzIrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA3LTE3VDA5OjU5OjAzLjczMiswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6ImppYW55aW5nOTk5QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjA1NzRiMzAyLTc5MzUtNGFlZi1hOTBkLTFlZjdjMTU3Y2U2MyIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjU5MjQwNzQzLCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.xB1ZZAaYwrkyLF8bD1KyQKC2tmW0myIZgUQvTVQWELk"
-        },
-        {
             "key": "Gitcafe",
             "name": "小纸条(爬虫)",
             "type": 3,
@@ -166,7 +156,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":""
+            "ext":"dcbc975ad0684eb5a498ecd1836272e6"
         },
         {
             "key":"AliPS",
@@ -622,5 +612,5 @@
     ],
     
     "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-    "spider":"https://gitea.com/dxa/1/raw/branch/main/jar/qj.jar;md5;2fa165c9aa72ada6ab74a3dedb58ff6b"
+    "spider":"https://gitea.com/dxa/1/raw/branch/main/jar/qj.jar;md5;06ed1a662fc19e4ea22f60f02770f4b6"
 }
