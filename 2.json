@@ -39,15 +39,6 @@
             "filterable":1
         },
         {
-            "key":"csp_DiDuan",
-            "name": "低端(爬虫)",
-            "type":3,
-            "api":"csp_Ddrk",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0
-        },
-        {
             "key":"KanSJ_spider",
             "name": "看视界(爬虫)",
             "api":"csp_KanSJ",
@@ -65,15 +56,6 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1
-        },
-        {
-            "key": "Ekan_spider",
-            "name": "Ekan(爬虫)",
-            "api": "csp_Ekan",
-            "type": 3,
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1
         },
         {
             "key":"csp_Wmkk",
