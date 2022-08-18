@@ -29,6 +29,15 @@
             "filterable": 1
         },
         {
+            "key": "Dy555",
+            "name": "555(爬虫)",
+            "type": 3,
+            "api": "csp_Dy555",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "zxzj",
             "name": "在线之家(爬虫)",
             "type": 3,
@@ -816,6 +825,6 @@
         "cms.qdwght.com"
     ],
        "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-       "spider":"https://dxawi.github.io/1/jar/custom_spider.jar;md5;d63fe3db21b48e04884c2d5303907bd1"
+       "spider":"https://dxawi.github.io/1/jar/custom_spider.jar;md5;bcdc9c422cd54beb629a1fde10c8716f"
     
 }
