@@ -38,6 +38,24 @@
             "filterable": 1
         },
         {
+            "key": "剧荒TV",
+            "name": "剧荒TV(爬虫)",
+            "type": 3,
+            "api": "csp_Juhuang",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {   
+            "key": "在线直播",
+            "name": "在线直播(爬虫)",
+            "type": 3,
+            "api": "csp_Yj1211",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "zxzj",
             "name": "在线之家(爬虫)",
             "type": 3,
@@ -815,6 +833,6 @@
         "cms.qdwght.com"
     ],
        "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-       "spider":"https://dxawi.github.io/1/jar/custom_spider.jar;md5;bcdc9c422cd54beb629a1fde10c8716f"
+       "spider":"https://dxawi.github.io/1/jar/custom_spider.jar;md5;15cd0613f3a07773b8bb9602d7411346"
     
 }
