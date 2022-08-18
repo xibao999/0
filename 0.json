@@ -239,16 +239,6 @@
             "ext":"https://dxawi.github.io/6/gptv.json"
         },
         {
-            "key": "csp_biubiu_橘子tv",
-            "name": "橘子TV(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://dxawi.github.io/6/jz.json"
-        },
-        {
             "key":"csp_biubiu_爱港剧",
             "name": "爱港剧(XB)",
             "type":3,
