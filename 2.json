@@ -8,8 +8,7 @@
             "type": 3,
             "filterable": 1,
             "quickSearch": 1,
-            "searchable": 1,
-            "ext": ""
+            "searchable": 1
         },
         {
             "key": "csp_77",
@@ -45,8 +44,7 @@
             "type":3,
             "filterable":1,
             "quickSearch":1,
-            "searchable":1,
-            "ext":""
+            "searchable":1
         },
         {
             "key":"csp_Wmkk",
