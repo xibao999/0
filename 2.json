@@ -49,15 +49,6 @@
             "ext":""
         },
         {
-            "key":"3EDY",
-            "name": "EEEDY(爬虫)",
-            "type":3,
-            "api":"csp_EEEDY",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },
-        {
             "key":"csp_Wmkk",
             "name": "完美看看(爬虫)",
             "api":"csp_Wmkk",
