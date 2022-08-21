@@ -174,15 +174,6 @@
             "filterable": 1
         },
         {
-            "key": "293",
-            "name": "293(T4)",
-            "type": 4,
-            "api": "http://z.kooo.eu.org/api/t4/293",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "360",
             "name": "360(不好用)",
             "type": 3,
