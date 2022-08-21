@@ -173,6 +173,10 @@
             "quickSearch": 1,
             "filterable": 1
         },
+        {"key": "kkys","name": "看123(T4)","type": 4,"api": "http://z.kooo.eu.org/api/t4/kkys","searchable": 1,"quickSearch": 1,"filterable": 1},
+        {"key": "Cokemv","name": "Cokemv(T4)","type": 4,"api": "http://z.kooo.eu.org/api/t4/cokemv","searchable": 1,"quickSearch": 1,"filterable": 1},
+        {"key": "在线","name": "在线(T4)","type": 4,"api": "http://z.kooo.eu.org/api/t4/zxzj","searchable": 1,"quickSearch": 1,"filterable": 1},
+        {"key": "蜂鸟","name": "蜂鸟(T4)","type": 4,"api": "http://z.kooo.eu.org/api/t4/fnsp","searchable": 1,"quickSearch": 1,"filterable": 1},
         {
             "key": "360",
             "name": "360(不好用)",
