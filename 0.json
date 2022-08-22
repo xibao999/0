@@ -205,9 +205,9 @@
         },
         {
             "key": "csp_Yiso",
-            "name": "易搜(仅搜索)",
+            "name": "一搜(仅搜索)",
             "type": 3,
-            "api": "csp_Yisou",
+            "api": "csp_Yiso",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
