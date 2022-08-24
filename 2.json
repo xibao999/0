@@ -29,6 +29,15 @@
             "filterable":1
         },
         {
+            "key":"IKan",
+            "name": "IKan(爬虫)",
+            "type":3,
+            "api":"csp_IKan",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
             "key":"厂长影视",
             "name": "厂长(爬虫)",
             "type":3,
@@ -788,6 +797,6 @@
         "cms.qdwght.com"
     ],
        "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-       "spider":"https://dxawi.github.io/1/jar/ts.jar;md5;ebb575522779863781215cf95463197d"
+       "spider":"https://dxawi.github.io/1/jar/ts.jar;md5;e6b2fd09512a4f30c2f9632a2acb47fa"
     
 }
