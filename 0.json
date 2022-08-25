@@ -165,6 +165,15 @@
             "filterable": 1
         },
         {
+            "key": "Bili",
+            "name": "Bili(爬虫)",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "360",
             "name": "360(不好用)",
             "type": 3,
@@ -871,6 +880,6 @@
         "cms.qdwght.com"
     ],
        "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-       "spider":"https://dxawi.github.io/1/jar/custom_spider.jar;md5;b524dee6005d1ead573713e0b4fed4b3"
+       "spider":"https://dxawi.github.io/1/jar/custom_spider.jar;md5;01189a34e86e0b4eabc3d1cca9c6ca3d"
     
 }
