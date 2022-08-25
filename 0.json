@@ -171,7 +171,7 @@
             "api": "csp_Bili",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
             "ext": "https://dxawi.github.io/6/bili.json"
         },
         {
