@@ -164,16 +164,16 @@
             "quickSearch": 1,
             "filterable": 1
         },
-       // {
-       //     "key": "Bili",
-       //     "name": "Bili(爬虫)",
-       //     "type": 3,
-       //     "api": "csp_Bili",
-       //     "searchable": 1,
-       //     "quickSearch": 1,
-       //     "filterable": 1,
-       //     "ext": "https://dxawi.github.io/6/bili.json"
-       // },
+        {
+            "key": "Bili",
+            "name": "Bili(爬虫)",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://dxawi.github.io/6/bili.json"
+        },
         {
             "key": "360",
             "name": "360(不好用)",
@@ -881,6 +881,6 @@
         "cms.qdwght.com"
     ],
        "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-       "spider":"https://dxawi.github.io/1/jar/custom_spider.jar;md5;b62550b71feff1f0ffdc2fba843a244a"
+       "spider":"https://dxawi.github.io/1/jar/custom_spider.jar;md5;1899d38dbdf9e23858821dbdd740d28a"
     
 }
