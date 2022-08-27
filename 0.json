@@ -11,6 +11,15 @@
             "filterable": 1
         },
         {
+            "key": "Lezhu_spider",
+            "name": "乐猪(爬虫)",
+            "api": "csp_Lezhu",
+            "type": 3,
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1
+        },
+        {
             "key": "csp_Cokemv",
             "name": "Cokemv(爬虫)",
             "type": 3,
@@ -45,15 +54,6 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1
-        },
-        {
-            "key": "Lezhu_spider",
-            "name": "乐猪(爬虫)",
-            "api": "csp_Lezhu",
-            "type": 3,
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1
         },
         {
             "key": "csp_Jianying",
@@ -157,7 +157,7 @@
         },
         {
             "key": "追剧喵",
-            "name": "追剧喵",
+            "name": "追剧喵(爬虫)",
             "type": 3,
             "api": "csp_ZJMiao",
             "searchable": 1,
