@@ -495,6 +495,11 @@
     "url":"Sequence"
     },  
     {
+      "name": "GGTV",
+      "type": 1,
+      "url": "https://play.fuqizhishi.com/gang0823/API.php?appkey=QQ172598364&url="
+    },
+    {
       "name": "油果",
       "type": 1,
       "url": "http://json.youguo520.top/fufeng/?url=",
