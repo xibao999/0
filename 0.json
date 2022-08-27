@@ -111,6 +111,15 @@
             "filterable": 1
         },
         {
+            "key":"日漫",
+            "name": "日漫(爬虫)",
+            "api":"csp_Anime1",
+            "type":3,
+            "filterable":1,
+            "quickSearch":1,
+            "searchable":1
+        },
+        {
             "key": "Dy555",
             "name": "555(爬虫)",
             "type": 3,
