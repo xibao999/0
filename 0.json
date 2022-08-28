@@ -184,10 +184,37 @@
             "ext": "https://dxawi.github.io/6/bili.json"
         },
         {
+            "key":"Ij101",
+            "name": "If101(需翻墙)",
+            "type":3,
+            "api":"csp_If101",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
+            "key":"泥巴",
+            "name": "泥巴(需翻墙)",
+            "type":3,
+            "api":"csp_Nbys",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
             "key": "360",
             "name": "360(不好用)",
             "type": 3,
             "api": "csp_SP360",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "XPbd",
+            "name": "XPbd(爬虫)",
+            "type": 3,
+            "api": "csp_XPbd",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -232,6 +259,8 @@
             "filterable": 0,
             "ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
         },
+        {"key": "csp_XYQBiu_影视工厂","name":"影视工厂显示线路名(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://dxawi.github.io/6/xysgc.json"},
+{"key": "csp_XYQBiu_555影视","name":"555影视搜索suggest格式(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://dxawi.github.io/6/x555.json"},
         {
             "key": "csp_biubiu_蓝光影院",
             "name": "蓝光(XB)",
@@ -895,6 +924,6 @@
         "cms.qdwght.com"
     ],
        "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-       "spider":"https://dxawi.github.io/1/jar/custom_spider.jar;md5;722596334701127b12e81196c9c4b35f"
+       "spider":"https://dxawi.github.io/1/jar/custom_spider.jar;md5;98671dc621164c536453f9a52fc66677"
     
 }
