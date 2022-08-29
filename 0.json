@@ -38,33 +38,6 @@
             "filterable":1
         },
         {
-            "key":"IKan",
-            "name": "IKan(爬虫)",
-            "type":3,
-            "api":"csp_IKan",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },
-        {
-            "key":"厂长影视",
-            "name": "厂长(爬虫)",
-            "type":3,
-            "api":"csp_Czsapp",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },
-        {
-            "key":"csp_Wmkk",
-            "name": "完美看看(爬虫)",
-            "api":"csp_Wmkk",
-            "type":3,
-            "filterable":1,
-            "quickSearch":1,
-            "searchable":1
-        },
-        {
             "key":"Bttoo",
             "name": "Bttoo(爬虫)",
             "api":"csp_Bttoo",
@@ -84,12 +57,30 @@
         },
         {
             "key": "zxzj",
-            "name": "在线之家(爬虫)",
+            "name": "在线(爬虫)",
             "type": 3,
             "api": "csp_Zxzj",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "神马影院",
+            "name": "神马(爬虫)",
+            "type": 3,
+            "api": "csp_Smdyy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key":"厂长影视",
+            "name": "厂长(爬虫)",
+            "type":3,
+            "api":"csp_Czsapp",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
         },
         {
             "key": "追剧喵",
@@ -111,15 +102,6 @@
             "ext": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozMDk1MCwiQ3JlYXRlZEF0IjoiMjAyMi0wOC0xNlQyMzoyNjoyMi4xNDQrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA4LTE2VDIzOjI2OjIyLjE0NCswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjIzMDg4MTcwMTBAcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiY2ZhYzE3Y2QtMmY5Mi00MTlkLTgwZTctYzRlNGI3YTk3MjNlIiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6bnVsbCwicmVnX2tleSI6IiIsInR2X3RpbWUiOm51bGwsInR2X2tleSI6IiJ9LCJleHAiOjE2NjEyNjgzODcsImlzcyI6IkFsZnJlZG8gTWVuZG96YSJ9.jkloD7HymtrLwvWaiAHOsxxqSqN2j7RgitKDhJS5e5Q"
         },
         {
-            "key": "神马影院",
-            "name": "神马(爬虫)",
-            "type": 3,
-            "api": "csp_Smdyy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key":"日漫",
             "name": "日漫(爬虫)",
             "api":"csp_Anime1",
@@ -136,6 +118,15 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key":"csp_Wmkk",
+            "name": "完美看看(爬虫)",
+            "api":"csp_Wmkk",
+            "type":3,
+            "filterable":1,
+            "quickSearch":1,
+            "searchable":1
         },
         {
             "key": "Kuaikan",
@@ -305,26 +296,6 @@
             "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/lzys.json"
         },
         {
-            "key": "csp_xpath_wanmeikk",
-            "name": "完美看看(XP)",
-            "type": 3,
-            "api": "csp_XPathMac",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/wmkkp.json"
-        },
-        {
-            "key":"csp_xpath_bttoo",
-            "name": "两个变态(XP)",
-            "type":3,
-            "api":"csp_XPath",
-            "searchable":0,
-            "quickSearch":0,
-            "filterable":0,
-            "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/bt.json"
-        },
-        {
             "key": "csp_biubiu_厂长资源",
             "name": "厂长资源(XB)",
             "type": 3,
@@ -363,86 +334,6 @@
             "quickSearch":1,
             "filterable":0,
             "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/libv.json"
-        },
-        {
-            "key":"csp_xpath_lezhutv",
-            "name": "乐猪TV(XPM)",
-            "type":3,
-            "api":"csp_XPathMac",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/lztv.json"
-        },
-        {
-            "key":"csp_xpath_zxzj",
-            "name": "在线之家(XPF)",
-            "type":3,
-            "api":"csp_XPathFilter",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/zxzjp.json"
-        },
-        {
-            "key":"csp_xpath_cokemv",
-            "name": "Cokemv(XPF)",
-            "type":3,
-            "api":"csp_XPathFilter",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/cokep.json"
-        },
-        {
-            "key":"csp_xpath_libv",
-            "name": "Libvio(XPF)",
-            "type":3,
-            "api":"csp_XPathMacFilter",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/libvp.json"
-        },
-        {
-            "key": "剧白白",
-            "name": "剧白白(XPF)",
-            "type": 3,
-            "api": "csp_XPathMacFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/jbbp.json"
-        },   
-        {
-            "key":"csp_xpath_dm84",
-            "name": "动漫巴士(XPF)",
-            "type":3,
-            "api":"csp_XPathFilter",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/dm84.json"
-        },    
-        {
-            "key": "csp_xpath_网络搜集库qiumi",
-            "name": "球迷看球(XPF)️️️",
-            "type": 3,
-            "api": "csp_XPathFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/qm.json"
-        },
-        {
-            "key": "csp_xpath_网络搜集库huaya",
-            "name": "虎牙(XP)",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/huya.json"
         },
         {
             "key":"push_agent",
@@ -831,6 +722,6 @@
         "cms.qdwght.com"
     ],
        "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-       "spider":"https://gitcode.net/kuukey/a/-/raw/master/jar/custom_spider.jar;md5;8a04381e0119c9248d284c1cc20d8b22"
+       "spider":"https://gitcode.net/kuukey/a/-/raw/master/jar/custom_spider.jar;md5;eae98ce31fb02cede605344c3b942668"
     
 }
