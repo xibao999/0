@@ -11,26 +11,6 @@
             "filterable": 1
         },
         {
-            "key": "77",
-            "name": "77(爬虫)",
-            "type": 3,
-            "api": "csp_Kunyu77",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar":"https://gitcode.net/kuukey/a/-/raw/master/jar/ts.jar;md5;3ff273adc74924748c820b8f15fb8c49"
-        },
-        {
-            "key": "看视界",
-            "name": "看视界(爬虫)",
-            "type": 3,
-            "api": "csp_KanSJ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar":"https://gitcode.net/kuukey/a/-/raw/master/jar/ts.jar;md5;3ff273adc74924748c820b8f15fb8c49"
-        },
-        {
             "key": "Lezhu",
             "name": "乐猪(爬虫)",
             "api": "csp_Lezhu",
@@ -92,6 +72,16 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1
+        },
+        {
+            "key": "看视界",
+            "name": "看视界(爬虫)",
+            "type": 3,
+            "api": "csp_KanSJ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar":"https://gitcode.net/kuukey/a/-/raw/master/jar/ts.jar;md5;3ff273adc74924748c820b8f15fb8c49"
         },
         {
             "key": "追剧喵",
