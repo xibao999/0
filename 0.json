@@ -132,7 +132,7 @@
         },
         {
             "key": "Bttoo",
-            "name": "Bttoo(爬虫)",
+            "name": "两个变态(爬虫)",
             "api":"csp_Bttoo",
             "type":3,
             "filterable":1,
@@ -238,8 +238,8 @@
             "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/ysgc.json"
         },
         {
-            "key": "瓜皮TV",
-            "name": "瓜皮TV(XB)",
+            "key": "瓜皮",
+            "name": "瓜皮(XB)",
             "type":3,
             "api":"csp_XBiubiu",
             "searchable":1,
@@ -258,16 +258,6 @@
             "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/agj.json"
         },    
         {
-            "key": "真不卡",
-            "name": "真不卡(XB)",
-            "type":3,
-            "api":"csp_XBiubiu",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/zbk.json"
-        },
-        {
             "key": "口袋影院",
             "name": "口袋(XB)",
             "type": 3,
@@ -278,17 +268,7 @@
             "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/kdyy.json"
         },
         {
-            "key": "555电影",
-            "name": "555(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/555dy.json"
-        },
-        {
-            "key": "lezhu",
+            "key": "乐猪XB",
             "name": "乐猪(XB)",
             "type": 3,
             "api": "csp_XBiubiu",
@@ -296,16 +276,6 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/lzys.json"
-        },
-        {
-            "key": "厂长资源",
-            "name": "厂长资源(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/czzy.json"
         },
         {
             "key": "推送",
