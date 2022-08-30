@@ -140,6 +140,15 @@
             "searchable":1
         },
         {
+            "key": "剧荒",
+            "name": "剧荒(爬虫)",
+            "type": 3,
+            "api": "csp_Juhuang",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "Wmkk",
             "name": "完美看看(爬虫)",
             "api":"csp_Wmkk",
@@ -147,6 +156,15 @@
             "filterable":1,
             "quickSearch":1,
             "searchable":1
+        },
+        {
+            "key": "360",
+            "name": "360(不好用)",
+            "type": 3,
+            "api": "csp_SP360",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "Bili",
