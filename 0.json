@@ -17,7 +17,8 @@
             "api": "csp_Kunyu77",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "jar":"https://gitcode.net/kuukey/a/-/raw/master/jar/ts.jar;md5;3ff273adc74924748c820b8f15fb8c49"
         },
         {
             "key": "Lezhu",
@@ -45,15 +46,6 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1
-        },
-        {
-            "key": "低端",
-            "name": "低端(爬虫)",
-            "api":"csp_Ddrk",
-            "type":3,
-            "filterable":1,
-            "quickSearch":1,
-            "searchable":1
         },
         {
             "key": "zxzj",
