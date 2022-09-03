@@ -18,7 +18,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar":"https://gitcode.net/kuukey/a/-/raw/master/jar/ts.jar;md5;3ff273adc74924748c820b8f15fb8c49"
+            "jar":"https://gitcode.net/kuukey/a/-/raw/master/jar/ts.jar;md5;1b0fae7c99b09c6f66d6c39b114580a9"
         },
         {
             "key": "Lezhu",
@@ -82,7 +82,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar":"https://gitcode.net/kuukey/a/-/raw/master/jar/ts.jar;md5;3ff273adc74924748c820b8f15fb8c49"
+            "jar":"https://gitcode.net/kuukey/a/-/raw/master/jar/ts.jar;md5;1b0fae7c99b09c6f66d6c39b114580a9"
         },
         {
             "key": "追剧喵",
@@ -277,16 +277,6 @@
             "filterable":0,
             "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/mjc.json"
         }, 
-        {
-            "key": "csp_xpath_wanmeikk",
-            "name": "完美看看(XPM)",
-            "type": 3,
-            "api": "csp_XPathMac",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://dxawi.github.io/6/wmkkp.json"
-        },
         {
             "key": "乐猪XB",
             "name": "乐猪(XB)",
