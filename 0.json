@@ -17,7 +17,8 @@
             "api": "csp_Kunyu77",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "jar":"https://gitcode.net/kuukey/a/-/raw/master/jar/ts.jar;md5;1b0fae7c99b09c6f66d6c39b114580a9"
         },
         {
             "key": "Lezhu",
@@ -80,7 +81,8 @@
             "api": "csp_KanSJ",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "jar":"https://gitcode.net/kuukey/a/-/raw/master/jar/ts.jar;md5;1b0fae7c99b09c6f66d6c39b114580a9"
         },
         {
             "key": "追剧喵",
@@ -663,6 +665,6 @@
         "cms.qdwght.com"
     ],
        "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-       "spider":"https://gitcode.net/kuukey/a/-/raw/master/jar/0901.jar;md5;9fc6a7f69ffdf4f270aaccefb70643f8"
+       "spider":"https://gitcode.net/kuukey/a/-/raw/master/jar/custom_spider.jar;md5;eae98ce31fb02cede605344c3b942668"
     
 }
