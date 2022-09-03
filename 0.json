@@ -11,16 +11,6 @@
             "filterable": 1
         },
         {
-            "key": "77",
-            "name": "77(爬虫)",
-            "type": 3,
-            "api": "csp_Kunyu77",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar":"https://gitcode.net/kuukey/a/-/raw/master/jar/ts.jar;md5;1b0fae7c99b09c6f66d6c39b114580a9"
-        },
-        {
             "key": "Lezhu",
             "name": "乐猪(爬虫)",
             "api": "csp_Lezhu",
@@ -48,15 +38,6 @@
             "filterable":1
         },
         {
-            "key": "zxzj",
-            "name": "在线(爬虫)",
-            "type": 3,
-            "api": "csp_Zxzj",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "神马影院",
             "name": "神马(爬虫)",
             "type": 3,
@@ -75,10 +56,30 @@
             "filterable":1
         },
         {
+            "key": "77",
+            "name": "77(爬虫)",
+            "type": 3,
+            "api": "csp_Kunyu77",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar":"https://gitcode.net/kuukey/a/-/raw/master/jar/ts.jar;md5;1b0fae7c99b09c6f66d6c39b114580a9"
+        },
+        {
             "key": "看视界",
             "name": "看视界(爬虫)",
             "type": 3,
             "api": "csp_KanSJ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar":"https://gitcode.net/kuukey/a/-/raw/master/jar/ts.jar;md5;1b0fae7c99b09c6f66d6c39b114580a9"
+        },
+        {
+            "key": "zxzj",
+            "name": "在线(爬虫)",
+            "type": 3,
+            "api": "csp_Zxzj",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
