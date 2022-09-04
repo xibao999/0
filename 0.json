@@ -2,10 +2,19 @@
 {
     "sites": [ 
         {
-            "key": "Kuaikan",
-            "name": "快看(爬虫)",
+            "key": "77",
+            "name": "77(爬虫)",
             "type": 3,
-            "api": "csp_Kuaikan",
+            "api": "csp_Kunyu77",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "看视界",
+            "name": "看视界(爬虫)",
+            "type": 3,
+            "api": "csp_KanSJ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -20,22 +29,13 @@
             "searchable": 1
         },
         {
-            "key": "Coke",
-            "name": "Cokemv(爬虫)",
+            "key": "IKan",
+            "name": "IKan(爬虫)",
             "type": 3,
-            "api": "csp_Cokemv",
+            "api": "csp_IKan",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "Lib",
-            "name": "Libvio(爬虫)",
-            "type":3,
-            "api":"csp_Lib",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
         },
         {
             "key": "神马影院",
@@ -56,34 +56,13 @@
             "filterable":1
         },
         {
-            "key": "77",
-            "name": "77(爬虫)",
+            "key": "Coke",
+            "name": "Cokemv(爬虫)",
             "type": 3,
-            "api": "csp_Kunyu77",
+            "api": "csp_Cokemv",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "jar":"https://gitcode.net/kuukey/a/-/raw/master/jar/ts.jar;md5;8d29a86d985a54225af22a82bb9328ee"
-        },
-        {
-            "key": "看视界",
-            "name": "看视界(爬虫)",
-            "type": 3,
-            "api": "csp_KanSJ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar":"https://gitcode.net/kuukey/a/-/raw/master/jar/ts.jar;md5;8d29a86d985a54225af22a82bb9328ee"
-        },
-        {
-            "key": "zxzj",
-            "name": "在线(爬虫)",
-            "type": 3,
-            "api": "csp_Zxzj",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar":"https://gitcode.net/kuukey/a/-/raw/master/jar/ts.jar;md5;8d29a86d985a54225af22a82bb9328ee"
+            "filterable": 1
         },
         {
             "key": "追剧喵",
@@ -105,15 +84,6 @@
             "ext": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozMDk1MCwiQ3JlYXRlZEF0IjoiMjAyMi0wOC0xNlQyMzoyNjoyMi4xNDQrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA4LTE2VDIzOjI2OjIyLjE0NCswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjIzMDg4MTcwMTBAcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiY2ZhYzE3Y2QtMmY5Mi00MTlkLTgwZTctYzRlNGI3YTk3MjNlIiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6bnVsbCwicmVnX2tleSI6IiIsInR2X3RpbWUiOm51bGwsInR2X2tleSI6IiJ9LCJleHAiOjE2NjEyNjgzODcsImlzcyI6IkFsZnJlZG8gTWVuZG96YSJ9.jkloD7HymtrLwvWaiAHOsxxqSqN2j7RgitKDhJS5e5Q"
         },
         {
-            "key": "Dy555",
-            "name": "555(爬虫)",
-            "type": 3,
-            "api": "csp_Dy555",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "Bttoo",
             "name": "两个变态(爬虫)",
             "api":"csp_Bttoo",
@@ -127,6 +97,33 @@
             "name": "剧荒(爬虫)",
             "type": 3,
             "api": "csp_Juhuang",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Kuaikan",
+            "name": "快看(爬虫)",
+            "type": 3,
+            "api": "csp_Kuaikan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "日漫",
+            "name": "日漫(爬虫)",
+            "type": 3,
+            "api": "csp_Anime1",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "293",
+            "name": "293(不好用)",
+            "type": 3,
+            "api": "csp_SP293",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -190,14 +187,45 @@
             "filterable": 0,
             "ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
         },
-        {   
-            "key": "在线直播",
-            "name": "在线直播(爬虫)",
+        {
+            "key":"csp_biubiu_LIBVIO",
+            "name": "Libvio(XB)",
+            "type":3,
+            "api":"csp_XBiubiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/libv.json"
+        },
+        {
+            "key": "饭团影视",
+            "name": "饭团影视(XB)",
+            "type":3,
+            "api":"csp_XBiubiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/ftys.json"
+        },
+        {
+            "key": "abyy",
+            "name": "AB影院(XB)",
+            "type":3,
+            "api":"csp_XBiubiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/abyy.json"
+        },
+        {
+            "key": "csp_XBiubiubiubiu_555",
+            "name": "555(XB)",
             "type": 3,
-            "api": "csp_Yj1211",
+            "api": "csp_XBiubiu",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 0,
+            "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/555dy.json"
         },
         {
             "key": "蓝光影院",
@@ -208,16 +236,6 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/lgyy.json"
-        },
-        {
-            "key": "剧白白",
-            "name": "剧白白(XB)",
-            "type":3,
-            "api":"csp_XBiubiu",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/jbb.json"
         },
         {
             "key": "ysgc",
@@ -250,16 +268,6 @@
             "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/kdyy.json"
         },
         {
-            "key": "csp_xpath_dm84",
-            "name": "动漫巴士(XPF)",
-            "type":3,
-            "api":"csp_XPathFilter",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/dm84.json"
-        }, 
-        {
             "key": "美剧虫",
             "name": "美剧虫(XPF)",
             "type":3,
@@ -270,6 +278,26 @@
             "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/mjc.json"
         }, 
         {
+            "key": "csp_xpath_dm84",
+            "name": "动漫巴士(XPF)",
+            "type":3,
+            "api":"csp_XPathFilter",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/dm84.json"
+        }, 
+        {
+            "key":"csp_xpath_libv",
+            "name": "Libvio(XPMF)",
+            "type":3,
+            "api":"csp_XPathMacFilter",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/libvp.json"
+        },  
+        {
             "key": "乐猪XB",
             "name": "乐猪(XB)",
             "type": 3,
@@ -278,6 +306,15 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/lzys.json"
+        },
+        {   
+            "key": "在线直播",
+            "name": "在线直播(爬虫)",
+            "type": 3,
+            "api": "csp_Yj1211",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "推送",
@@ -666,6 +703,5 @@
         "cms.qdwght.com"
     ],
        "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-       "spider":"https://gitcode.net/kuukey/a/-/raw/master/jar/custom_spider.jar;md5;eae98ce31fb02cede605344c3b942668"
-    
+       "spider":"https://gitcode.net/kuukey/a/-/raw/master/jar/cs.jar;md5;6193b6c8b66defa770ceb47773846de0"
 }
