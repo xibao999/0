@@ -11,6 +11,15 @@
             "filterable": 1
         },
         {
+            "key": "Coke",
+            "name": "Cokemv(爬虫)",
+            "type": 3,
+            "api": "csp_Cokemv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "看视界",
             "name": "看视界(爬虫)",
             "type": 3,
@@ -29,8 +38,8 @@
             "searchable": 1
         },
         {
-            "key": "IKan",
-            "name": "IKan(爬虫)",
+            "key": "爱看",
+            "name": "爱看(爬虫)",
             "type": 3,
             "api": "csp_IKan",
             "searchable": 1,
@@ -56,15 +65,6 @@
             "filterable":1
         },
         {
-            "key": "Coke",
-            "name": "Cokemv(爬虫)",
-            "type": 3,
-            "api": "csp_Cokemv",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "追剧喵",
             "name": "追剧喵(爬虫)",
             "type": 3,
@@ -85,7 +85,7 @@
         },
         {
             "key": "Bttoo",
-            "name": "两个变态(爬虫)",
+            "name": "Bttoo(爬虫)",
             "api":"csp_Bttoo",
             "type":3,
             "filterable":1,
@@ -136,66 +136,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "Bili",
-            "name": "Bili(爬虫)",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/bili.json"
-        },
-        {
-            "key": "知识",
-            "name": "知识学堂(爬虫)",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/xx1.json"
-        },
-        {
-            "key": "儿童",
-            "name": "儿童(爬虫)",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/xx2.json"
-        },
-        {
-            "key": "小学",
-            "name": "小学(爬虫)",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/xx3.json"
-        },
-        {
-            "key": "初中",
-            "name": "初中(爬虫)",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/xx4.json"
-        },
-        {
-            "key": "高中",
-            "name": "高中(爬虫)",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/xx5.json"
         },
         {
             "key": "Gitcafe",
@@ -385,6 +325,66 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "Bili",
+            "name": "Bili(爬虫)",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/bili.json"
+        },
+        {
+            "key": "知识",
+            "name": "知识学堂(爬虫)",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/xx1.json"
+        },
+        {
+            "key": "儿童",
+            "name": "儿童(爬虫)",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/xx2.json"
+        },
+        {
+            "key": "小学",
+            "name": "小学(爬虫)",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/xx3.json"
+        },
+        {
+            "key": "初中",
+            "name": "初中(爬虫)",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/xx4.json"
+        },
+        {
+            "key": "高中",
+            "name": "高中(爬虫)",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/xx5.json"
         },
         {
             "key": "推送",
