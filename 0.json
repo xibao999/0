@@ -148,6 +148,56 @@
             "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/bili.json"
         },
         {
+            "key": "知识",
+            "name": "知识学堂(爬虫)",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/xx1.json"
+        },
+        {
+            "key": "儿童",
+            "name": "儿童(爬虫)",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/xx2.json"
+        },
+        {
+            "key": "小学",
+            "name": "小学(爬虫)",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/xx3.json"
+        },
+        {
+            "key": "初中",
+            "name": "初中(爬虫)",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/xx4.json"
+        },
+        {
+            "key": "高中",
+            "name": "高中(爬虫)",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/xx5.json"
+        },
+        {
             "key": "Gitcafe",
             "name": "小纸条(爬虫)",
             "type": 3,
@@ -288,6 +338,16 @@
             "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/dm84.json"
         }, 
         {
+            "key": "蓝光影院XPF",
+            "name": "蓝光影院(XPF)",
+            "type":3,
+            "api":"csp_XPathFilter",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/lgyyp.json"
+        }, 
+        {
             "key":"csp_xpath_libv",
             "name": "Libvio(XPMF)",
             "type":3,
@@ -348,6 +408,9 @@
     "type":2,
     "url":"Sequence"
     }, 
+    {
+    "name": "QIKU","type":1,"url":"https://cache.json.icu/home/api?type=ys&uid=292796&key=fnoryABDEFJNPQV269&url="
+    },
     {
       "name": "油果",
       "type": 1,
