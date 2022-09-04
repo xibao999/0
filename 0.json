@@ -208,16 +208,6 @@
             "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/abyy.json"
         },
         {
-            "key": "csp_XBiubiubiubiu_555",
-            "name": "555(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/555dy.json"
-        },
-        {
             "key": "蓝光影院",
             "name": "蓝光(XB)",
             "type": 3,
@@ -266,6 +256,16 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/kdyy.json"
+        },
+        {
+            "key": "csp_XBiubiubiubiu_555",
+            "name": "555(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/555dy.json"
         },
         {
             "key": "美剧虫",
