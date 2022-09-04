@@ -308,6 +308,16 @@
             "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/gptv.json"
         },
         {
+            "key": "csp_biubiu_剧白白",
+            "name": "剧白白(XB)",
+            "type":3,
+            "api":"csp_XBiubiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/jbb.json"
+        },
+        {
             "key": "口袋影院",
             "name": "口袋(XB)",
             "type": 3,
