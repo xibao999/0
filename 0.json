@@ -29,6 +29,15 @@
             "filterable": 1
         },
         {
+            "key": "低端",
+            "name": "低端(爬虫)",
+            "type": 3,
+            "api": "csp_Ddrk",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "看视界",
             "name": "看视界(爬虫)",
             "type": 3,
