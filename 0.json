@@ -119,6 +119,15 @@
             "filterable": 1
         },
         {
+            "key": "555",
+            "name": "555(爬虫)",
+            "type": 3,
+            "api": "csp_Dy555",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "日漫",
             "name": "日漫(爬虫)",
             "type": 3,
@@ -736,5 +745,5 @@
         "cms.qdwght.com"
     ],
        "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-       "spider":"https://gitcode.net/kuukey/a/-/raw/master/jar/cs.jar;md5;908a9b73001c8516cf644c7c0050385b"
+       "spider":"https://gitcode.net/kuukey/a/-/raw/master/jar/cs.jar;md5;a37cc2d2ea049fdb3e6791f57cbd3ebe"
 }
