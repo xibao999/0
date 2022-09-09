@@ -222,6 +222,16 @@
             "filterable":1
         },
         {
+            "key":"csp_xpath_libv",
+            "name": "Libvio(XPMF)",
+            "type":3,
+            "api":"csp_XPathMacFilter",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/libvp.json"
+        },  
+        {
             "key": "饭团影视",
             "name": "饭团影视(XB)",
             "type":3,
@@ -292,16 +302,6 @@
             "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/kdyy.json"
         },
         {
-            "key":"csp_biubiu_LIBVIO",
-            "name": "Libvio(XB)",
-            "type":3,
-            "api":"csp_XBiubiu",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/libv.json"
-        },
-        {
             "key": "csp_XBiubiubiubiu_555",
             "name": "555(XB)",
             "type": 3,
@@ -323,7 +323,7 @@
         },
         {
             "key": "csp_xpath_wanmeikk",
-            "name": "完美看看(XP)",
+            "name": "完美看看(XPM)",
             "type": 3,
             "api": "csp_XPathMac",
             "searchable": 1,
@@ -361,16 +361,6 @@
             "filterable":0,
             "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/lgyyp.json"
         }, 
-        {
-            "key":"csp_xpath_libv",
-            "name": "Libvio(XPMF)",
-            "type":3,
-            "api":"csp_XPathMacFilter",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/libvp.json"
-        },  
         {
             "key": "乐猪XB",
             "name": "乐猪(XB)",
