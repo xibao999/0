@@ -222,15 +222,55 @@
             "filterable":1
         },
         {
+            "key":"csp_xpath_zxzj",
+            "name": "在线之家(XP)",
+            "type":3,
+            "api":"csp_XPathFilter",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/zxzjp.json"
+        },
+        {
             "key":"csp_xpath_libv",
-            "name": "Libvio(XPMF)",
+            "name": "Libvio(XP)",
             "type":3,
             "api":"csp_XPathMacFilter",
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
             "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/libvp.json"
-        },  
+        },
+        {
+            "key": "csp_xpath_wanmeikk",
+            "name": "完美看看(XP)",
+            "type": 3,
+            "api": "csp_XPathMac",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/wmkkp.json"
+        },
+        {
+            "key": "美剧虫",
+            "name": "美剧虫(XP)",
+            "type":3,
+            "api":"csp_XPathFilter",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/mjc.json"
+        }, 
+        {
+            "key": "csp_xpath_dm84",
+            "name": "动漫巴士(XP)",
+            "type":3,
+            "api":"csp_XPathFilter",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/dm84.json"
+        }, 
         {
             "key": "饭团影视",
             "name": "饭团影视(XB)",
@@ -282,16 +322,6 @@
             "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/gptv.json"
         },
         {
-            "key": "csp_biubiu_剧白白",
-            "name": "剧白白(XB)",
-            "type":3,
-            "api":"csp_XBiubiu",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/jbb.json"
-        },
-        {
             "key": "口袋影院",
             "name": "口袋(XB)",
             "type": 3,
@@ -322,38 +352,28 @@
             "categories": ["国产剧","日韩剧","港台剧","欧美剧","综艺","动漫","动作片","科幻片","战争片","喜剧片","爱情片","恐怖片","剧情片"]
         },
         {
-            "key": "csp_xpath_wanmeikk",
-            "name": "完美看看(XPM)",
-            "type": 3,
-            "api": "csp_XPathMac",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/wmkkp.json"
+            "key":"csp_xpath_lezhutv",
+            "name": "乐猪TV(XP)",
+            "type":3,
+            "api":"csp_XPathMac",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/lztv.json"
         },
         {
-            "key": "美剧虫",
-            "name": "美剧虫(XPF)",
+            "key":"csp_xpath_cokemv",
+            "name": "Cokemv(XP)",
             "type":3,
             "api":"csp_XPathFilter",
             "searchable":1,
             "quickSearch":1,
-            "filterable":0,
-            "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/mjc.json"
-        }, 
-        {
-            "key": "csp_xpath_dm84",
-            "name": "动漫巴士(XPF)",
-            "type":3,
-            "api":"csp_XPathFilter",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/dm84.json"
-        }, 
+            "filterable":1,
+            "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/cokep.json"
+        },
         {
             "key": "蓝光影院XPF",
-            "name": "蓝光影院(XPF)",
+            "name": "蓝光影院(XP)",
             "type":3,
             "api":"csp_XPathFilter",
             "searchable":1,
@@ -361,16 +381,6 @@
             "filterable":0,
             "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/lgyyp.json"
         }, 
-        {
-            "key": "乐猪XB",
-            "name": "乐猪(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/lzys.json"
-        },
         {   
             "key": "在线直播",
             "name": "在线直播(爬虫)",
