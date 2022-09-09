@@ -222,16 +222,6 @@
             "filterable":1
         },
         {
-            "key":"csp_xpath_zxzj",
-            "name": "在线之家(XP)",
-            "type":3,
-            "api":"csp_XPathFilter",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/zxzjp.json"
-        },
-        {
             "key":"csp_xpath_libv",
             "name": "Libvio(XP)",
             "type":3,
@@ -371,6 +361,16 @@
             "filterable":0,
             "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/lgyyp.json"
         }, 
+        {
+            "key":"csp_xpath_zxzj",
+            "name": "在线之家(XP)",
+            "type":3,
+            "api":"csp_XPathFilter",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/zxzjp.json"
+        },
         {   
             "key": "在线直播",
             "name": "在线直播(爬虫)",
