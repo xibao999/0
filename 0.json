@@ -252,16 +252,6 @@
             "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/wmkkp.json"
         },
         {
-            "key": "美剧虫",
-            "name": "美剧虫(XP)",
-            "type":3,
-            "api":"csp_XPathFilter",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/mjc.json"
-        }, 
-        {
             "key": "csp_xpath_dm84",
             "name": "动漫巴士(XP)",
             "type":3,
