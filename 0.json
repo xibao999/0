@@ -21,22 +21,12 @@
         },
         {
             "key": "Lib",
-            "name": "Libvio(爬不起来的看楼下)",
+            "name": "Libvio(爬虫)",
             "type": 3,
             "api": "csp_Lib",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key":"csp_xpath_libv",
-            "name": "Libvio(XP)",
-            "type":3,
-            "api":"csp_XPathMacFilter",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/libvp.json"
         },
         {
             "key": "Lezhu",
@@ -203,6 +193,16 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
+        },
+        {
+            "key":"csp_xpath_libv",
+            "name": "Libvio(XP)",
+            "type":3,
+            "api":"csp_XPathMacFilter",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/libvp.json"
         },
         {
             "key":"csp_xpath_zxzj",
@@ -681,5 +681,5 @@
         "cms.qdwght.com"
     ],
        "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-       "spider":"https://gitcode.net/kuukey/a/-/raw/master/jar/cs.jar;md5;1021ee1c34c60a2e9ee72e46ddd024b7"
+       "spider":"https://gitcode.net/kuukey/a/-/raw/master/jar/cs.jar;md5;3b376fbe31fb80bf131203fae225fff5"
 }
