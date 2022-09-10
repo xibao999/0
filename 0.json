@@ -20,6 +20,15 @@
             "filterable": 1
         },
         {
+            "key": "Lib",
+            "name": "Libvio(爬不起来的看楼下)",
+            "type": 3,
+            "api": "csp_Lib",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key":"csp_xpath_libv",
             "name": "Libvio(XP)",
             "type":3,
@@ -145,24 +154,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "Lib",
-            "name": "Libvio(有些爬不出来)",
-            "type": 3,
-            "api": "csp_Lib",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_293视频",
-            "name": "293(不好用)",
-            "type":3,
-            "api":"csp_SP293",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
         },
         {
             "key": "360",
@@ -328,16 +319,6 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/kdyy.json"
-        },
-        {
-            "key": "csp_XBiubiubiubiu_555",
-            "name": "555(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/555dy.json"
         },
         {
             "key": "多多",
@@ -736,5 +717,5 @@
         "cms.qdwght.com"
     ],
        "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-       "spider":"https://gitcode.net/kuukey/a/-/raw/master/jar/cs.jar;md5;292c5f602e90ca870e9a017b16cf59cb"
+       "spider":"https://gitcode.net/kuukey/a/-/raw/master/jar/cs.jar;md5;1021ee1c34c60a2e9ee72e46ddd024b7"
 }
