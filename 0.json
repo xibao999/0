@@ -39,6 +39,15 @@
             "searchable": 1
         },
         {
+            "key": "哔滴影视",
+            "name": "哔滴影视(爬虫)",
+            "type": 3,
+            "api": "csp_Bdys01",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "神马影院",
             "name": "神马(爬虫)",
             "type": 3,
@@ -718,5 +727,5 @@
         "cms.qdwght.com"
     ],
        "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-       "spider":"https://gitcode.net/kuukey/a/-/raw/master/jar/cs.jar;md5;78710c9f4d57912a9071921be5312d3a"
+       "spider":"https://gitcode.net/kuukey/a/-/raw/master/jar/cs.jar;md5;5c0d209c30b2552c9219ee232e36443f"
 }
