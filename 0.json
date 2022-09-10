@@ -20,13 +20,14 @@
             "filterable": 1
         },
         {
-            "key": "Lib",
-            "name": "Libvio(爬虫)",
-            "type": 3,
-            "api": "csp_Lib",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "key":"csp_xpath_libv",
+            "name": "Libvio(XP)",
+            "type":3,
+            "api":"csp_XPathMacFilter",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/libvp.json"
         },
         {
             "key": "Lezhu",
@@ -128,6 +129,15 @@
             "filterable": 1
         },
         {
+            "key": "Lib",
+            "name": "Libvio(有些爬不出来)",
+            "type": 3,
+            "api": "csp_Lib",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "csp_293视频",
             "name": "293(不好用)",
             "type":3,
@@ -222,24 +232,14 @@
             "filterable":1
         },
         {
-            "key":"csp_xpath_libv",
-            "name": "Libvio(XP)",
+            "key":"csp_xpath_zxzj",
+            "name": "在线之家(XP)",
             "type":3,
-            "api":"csp_XPathMacFilter",
+            "api":"csp_XPathFilter",
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/libvp.json"
-        },
-        {
-            "key": "csp_xpath_wanmeikk",
-            "name": "完美看看(XP)",
-            "type": 3,
-            "api": "csp_XPathMac",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/wmkkp.json"
+            "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/zxzjp.json"
         },
         {
             "key": "csp_xpath_dm84",
@@ -332,6 +332,16 @@
             "categories": ["国产剧","日韩剧","港台剧","欧美剧","综艺","动漫","动作片","科幻片","战争片","喜剧片","爱情片","恐怖片","剧情片"]
         },
         {
+            "key": "csp_xpath_wanmeikk",
+            "name": "完美看看(XP)",
+            "type": 3,
+            "api": "csp_XPathMac",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/wmkkp.json"
+        },
+        {
             "key":"csp_xpath_lezhutv",
             "name": "乐猪TV(XP)",
             "type":3,
@@ -361,16 +371,6 @@
             "filterable":0,
             "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/lgyyp.json"
         }, 
-        {
-            "key":"csp_xpath_zxzj",
-            "name": "在线之家(XP)",
-            "type":3,
-            "api":"csp_XPathFilter",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/zxzjp.json"
-        },
         {   
             "key": "在线直播",
             "name": "在线直播(爬虫)",
