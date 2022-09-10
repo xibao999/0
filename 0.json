@@ -205,15 +205,6 @@
             "ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
         },
         {
-            "key": "dr_LIBVIO",
-            "name": "LIBVIO(道长)",
-            "type":1,
-            "api":"http://cms.nokia.press/vod?rule=LIBVIO",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0
-        },
-        {
             "key":"csp_xpath_zxzj",
             "name": "在线之家(XP)",
             "type":3,
