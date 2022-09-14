@@ -47,6 +47,15 @@
             "filterable": 1
         },
         {
+            "key": "Lezhu",
+            "name": "乐猪(爬虫)",
+            "api": "csp_Lezhu",
+            "type": 3,
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1
+        },
+        {
             "key": "神马影院",
             "name": "神马(爬虫)",
             "type": 3,
@@ -126,15 +135,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "Lezhu",
-            "name": "乐猪(爬虫有广告)",
-            "api": "csp_Lezhu",
-            "type": 3,
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1
         },
         {
             "key": "360",
