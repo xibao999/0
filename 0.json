@@ -153,7 +153,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
+            "ext": "3781469b13074e4cac1e0e7113e4fa20"
         },
         {
             "key": "zhaozy",
@@ -163,7 +163,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
+            "ext": "3781469b13074e4cac1e0e7113e4fa20"
         },
         {
             "key": "AliPS",
@@ -173,7 +173,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
+            "ext": "3781469b13074e4cac1e0e7113e4fa20"
         },
         {
             "key": "Yiso",
@@ -183,7 +183,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
+            "ext": "3781469b13074e4cac1e0e7113e4fa20"
         },
         {
             "key": "csp_xpath_dm84",
@@ -382,7 +382,7 @@
             "searchable":0,
             "quickSearch":0,
             "filterable":0,
-            "ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
+            "ext": "3781469b13074e4cac1e0e7113e4fa20"
         }
     ],
        "lives":[
