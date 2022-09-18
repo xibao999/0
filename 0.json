@@ -187,16 +187,6 @@
             "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/dm84.json"
         }, 
         {
-            "key": "饭团影视",
-            "name": "饭团影视(XB)",
-            "type":3,
-            "api":"csp_XBiubiu",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/ftys.json"
-        },
-        {
             "key": "蓝光影院",
             "name": "蓝光(XB)",
             "type": 3,
@@ -245,6 +235,15 @@
             "quickSearch": 1,
             "filterable": 1,
             "categories": ["国产剧","日韩剧","港台剧","欧美剧","综艺","动漫","动作片","科幻片","战争片","喜剧片","爱情片","恐怖片","剧情片"]
+        },
+        {
+            "key": "dr_瓜皮TV",
+            "name": "瓜皮TV",
+            "type": 1,
+            "api": "https://drpy.aqingyuan.repl.co/vod?rule=瓜皮TV",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
         },
         {
             "key":"csp_xpath_libv",
