@@ -11,9 +11,9 @@
             "filterable": 1
         },
         {
-            "key": "TT",
-            "name": "TT(爬虫)",
-            "api": "csp_AppTT",
+            "key": "Lezhu",
+            "name": "乐猪(爬虫)",
+            "api": "csp_Lezhu",
             "type": 3,
             "filterable": 1,
             "quickSearch": 1,
@@ -21,7 +21,7 @@
         },
         {
             "key": "Coke",
-            "name": "Cokemv(爬虫)",
+            "name": "Cokemv(不好用中)",
             "type": 3,
             "api": "csp_Cokemv",
             "searchable": 1,
@@ -38,6 +38,24 @@
             "filterable": 1
         },
         {
+            "key": "厂长",
+            "name": "厂长(爬虫)",
+            "type":3,
+            "api":"csp_Czsapp",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
+            "key": "剧荒",
+            "name": "剧荒(爬虫)",
+            "type": 3,
+            "api": "csp_Juhuang",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "哔滴影视",
             "name": "哔滴影视(爬虫)",
             "type": 3,
@@ -45,15 +63,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "Lezhu",
-            "name": "乐猪(爬虫)",
-            "api": "csp_Lezhu",
-            "type": 3,
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1
         },
         {
             "key": "神马影院",
@@ -65,13 +74,13 @@
             "filterable": 1
         },
         {
-            "key": "剧荒",
-            "name": "剧荒(爬虫)",
-            "type": 3,
-            "api": "csp_Juhuang",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "key": "Bttoo",
+            "name": "Bttoo(爬虫)",
+            "api":"csp_Bttoo",
+            "type":3,
+            "filterable":1,
+            "quickSearch":1,
+            "searchable":1
         },
         {
             "key": "看视界",
@@ -90,24 +99,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "Bttoo",
-            "name": "Bttoo(爬虫)",
-            "api":"csp_Bttoo",
-            "type":3,
-            "filterable":1,
-            "quickSearch":1,
-            "searchable":1
-        },
-        {
-            "key": "厂长",
-            "name": "厂长(爬虫)",
-            "type":3,
-            "api":"csp_Czsapp",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
         },
         {
             "key": "Kuaikan",
