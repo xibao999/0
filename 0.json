@@ -219,22 +219,13 @@
         },
         {
             "key": "多多",
-            "name": "多多资源",
+            "name": "多多资源(采集)",
             "type": 1,
             "api": "https://www.ddzyz1.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "categories": ["国产剧","日韩剧","港台剧","欧美剧","综艺","动漫","动作片","科幻片","战争片","喜剧片","爱情片","恐怖片","剧情片"]
-        },
-        {
-            "key": "dr_瓜皮TV",
-            "name": "瓜皮TV",
-            "type": 1,
-            "api": "https://drpy.aqingyuan.repl.co/vod?rule=瓜皮TV",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
         },
         {
             "key":"csp_xpath_libv",
