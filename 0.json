@@ -177,8 +177,7 @@
             "filterable":0,
             "ext":"https://dxawi.github.io/6/dm84.json"
         }, 
-        {"key":"csp_XYQBiu_氢视频","name":"氢视频","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://dxawi.github.io/6/xyqqsp.json"},
-        {"key":"csp_XYQBiu_凌云影视","name":"凌云影视","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://dxawi.github.io/6/xyqlyys.json"},
+        {"key":"csp_XYQBiu_凌云影视","name":"凌云影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://dxawi.github.io/6/xyqlyys.json"},
         {
             "key": "饭团",
             "name": "饭团(XB)",
