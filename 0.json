@@ -175,7 +175,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/dm84.json"
+            "ext":"https://dxawi.github.io/6/dm84.json"
         }, 
         {
             "key": "蓝光影院",
@@ -185,7 +185,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/lgyy.json"
+            "ext": "https://dxawi.github.io/6/lgyy.json"
         },
         {
             "key": "ysgc",
@@ -195,7 +195,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/ysgc.json"
+            "ext": "https://dxawi.github.io/6/ysgc.json"
         },
         {
             "key": "瓜皮",
@@ -205,7 +205,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/gptv.json"
+            "ext":"https://dxawi.github.io/6/gptv.json"
         },
         {
             "key": "口袋影院",
@@ -215,7 +215,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/kdyy.json"
+            "ext": "https://dxawi.github.io/6/kdyy.json"
         },
         {
             "key": "多多",
@@ -235,7 +235,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/libvp.json"
+            "ext":"https://dxawi.github.io/6/libvp.json"
         },
         {
             "key":"csp_xpath_zxzj",
@@ -245,7 +245,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/zxzjp.json"
+            "ext":"https://dxawi.github.io/6/zxzjp.json"
         },
         {
             "key":"csp_xpath_lezhutv",
@@ -255,7 +255,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/lztv.json"
+            "ext":"https://dxawi.github.io/6/lztv.json"
         },
         {
             "key":"csp_xpath_cokemv",
@@ -265,7 +265,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/cokep.json"
+            "ext":"https://dxawi.github.io/6/cokep.json"
         },
         {
             "key": "蓝光影院XPF",
@@ -275,7 +275,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/lgyyp.json"
+            "ext":"https://dxawi.github.io/6/lgyyp.json"
         }, 
         {   
             "key": "在线直播",
@@ -294,7 +294,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/bili.json"
+            "ext": "https://dxawi.github.io/6/bili.json"
         },
         {
             "key": "知识",
@@ -304,7 +304,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/xx1.json"
+            "ext": "https://dxawi.github.io/6/xx1.json"
         },
         {
             "key": "儿童",
@@ -314,7 +314,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/xx2.json"
+            "ext": "https://dxawi.github.io/6/xx2.json"
         },
         {
             "key": "小学",
@@ -324,7 +324,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/xx3.json"
+            "ext": "https://dxawi.github.io/6/xx3.json"
         },
         {
             "key": "初中",
@@ -334,7 +334,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/xx4.json"
+            "ext": "https://dxawi.github.io/6/xx4.json"
         },
         {
             "key": "高中",
@@ -344,7 +344,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/xx5.json"
+            "ext": "https://dxawi.github.io/6/xx5.json"
         },
         {
             "key": "推送",
@@ -360,7 +360,7 @@
        "lives":[
 {"group":"redirect","channels":[
     {"name":"live","urls":[
-        "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRjb2RlLm5ldC9rdXVrZXkvYS8tL3Jhdy9tYXN0ZXIvdHZsaXZlLnR4dA=="
+        "proxy://do=live&type=txt&ext=aHR0cHM6Ly9keGF3aS5naXRodWIuaW8vMS90dmxpdmUudHh0"
     ]}]}],
      "parses": [
     {"name":"解析聚合","type":3,"url":"Demo"},
@@ -626,5 +626,5 @@
         "cms.qdwght.com"
     ],
        "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-       "spider":"https://gitcode.net/kuukey/a/-/raw/master/jar/cs.jar;md5;3b376fbe31fb80bf131203fae225fff5"
+       "spider":"https://dxawi.github.io/1/jar/cs.jar;md5;3b376fbe31fb80bf131203fae225fff5"
 }
