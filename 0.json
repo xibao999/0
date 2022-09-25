@@ -198,6 +198,16 @@
             "ext":"https://dxawi.github.io/6/xyqlyys.json"
         },
         {
+            "key": "csp_XBPQ极品影视",
+            "name": "极品影视(XBPQ)",
+            "type":3,
+            "api":"csp_xBPQ",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://dxawi.github.io/6/xbpqjpys.json"
+        },
+        {
             "key": "Voflix",
             "name": "Voflix(XB)",
             "type": 3,
