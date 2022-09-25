@@ -191,7 +191,8 @@
             "key": "csp_XYQBiu_凌云影视",
             "name": "凌云影视(XYQB)",
             "type":3,
-            "api":"csp_XYQBiu","searchable":1,
+            "api":"csp_XYQBiu",
+            "searchable":1,
             "quickSearch":1,
             "filterable":1,
             "ext":"https://dxawi.github.io/6/xyqlyys.json"
@@ -655,5 +656,5 @@
         "cms.qdwght.com"
     ],
        "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-       "spider":"https://dxawi.github.io/1/jar/cs.jar;md5;e887ff688778035138d655e9b7515b4b"
+       "spider":"https://dxawi.github.io/1/jar/cs.jar;md5;76a5c4993bef6f4337aff71fde78e407"
 }
