@@ -65,6 +65,15 @@
             "filterable": 1
         },
         {
+            "key": "AppTT",
+            "name": "TT(爬虫)",
+            "type": 3,
+            "api": "csp_AppTT",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        }, 
+        {
             "key": "哔滴影视",
             "name": "哔滴影视(爬虫)",
             "type": 3,
@@ -119,6 +128,15 @@
             "filterable": 1
         },
         {
+            "key": "Anime1",
+            "name": "日漫(爬虫)",
+            "type": 3,
+            "api": "csp_Anime1",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        }, 
+        {
             "key": "360",
             "name": "360(不好用)",
             "type": 3,
@@ -162,6 +180,16 @@
             "name": "一搜(仅搜索)",
             "type": 3,
             "api": "csp_Yiso",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "14ab7929c5724ffd9c3431d8fa19d421"
+        },
+        {
+            "key": "Upyunso",
+            "name": "Upyunso(仅搜索)",
+            "type": 3,
+            "api": "csp_Upyunso",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
@@ -666,5 +694,5 @@
         "cms.qdwght.com"
     ],
        "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-       "spider":"https://dxawi.github.io/1/jar/cs.jar;md5;76a5c4993bef6f4337aff71fde78e407"
+       "spider":"https://dxawi.github.io/1/jar/cs.jar;md5;8d0287b412b1cc1f8f70a1b475f5f738"
 }
