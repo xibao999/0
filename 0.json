@@ -28,6 +28,26 @@
             "quickSearch": 1,
             "filterable": 1
         },
+         {
+            "key": "csp_xb_ysgc",
+            "name": "影视工厂(R)",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://www.ysgc.fun/vodtype/{cateId}-{catePg}.html"
+        },
+        {
+            "key": "csp_xb_lgyy",
+            "name": "蓝光影院(R)",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html"
+        },
         {
             "key": "Coke",
             "name": "Cokemv(不好用中)",
@@ -664,5 +684,5 @@
         "cms.qdwght.com"
     ],
        "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-       "spider":"https://dxawi.github.io/1/jar/cs.jar;md5;8d0287b412b1cc1f8f70a1b475f5f738"
+       "spider":"https://dxawi.github.io/1/jar/cs.jar;md5;e9b5d9bfaf0ac1fcd9547b0a709809c6"
 }
