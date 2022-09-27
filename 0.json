@@ -153,7 +153,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "14ab7929c5724ffd9c3431d8fa19d421"
+            "ext": "81461f2e9d0b4ffb86612db403824b8a"
         },
         {
             "key": "zhaozy",
@@ -163,7 +163,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "14ab7929c5724ffd9c3431d8fa19d421"
+            "ext": "81461f2e9d0b4ffb86612db403824b8a"
         },
         {
             "key": "AliPS",
@@ -173,7 +173,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext": "14ab7929c5724ffd9c3431d8fa19d421"
+            "ext": "81461f2e9d0b4ffb86612db403824b8a"
         },
         {
             "key": "Yiso",
@@ -183,7 +183,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "14ab7929c5724ffd9c3431d8fa19d421"
+            "ext": "81461f2e9d0b4ffb86612db403824b8a"
         },
         {
             "key": "Upyunso",
@@ -193,7 +193,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "14ab7929c5724ffd9c3431d8fa19d421"
+            "ext": "81461f2e9d0b4ffb86612db403824b8a"
         },
         {
             "key": "csp_xpath_dm84",
@@ -315,36 +315,6 @@
             "filterable":1,
             "ext":"https://dxawi.github.io/6/zxzjp.json"
         },
-        {
-            "key":"csp_xpath_lezhutv",
-            "name": "乐猪TV(XP)",
-            "type":3,
-            "api":"csp_XPathMac",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://dxawi.github.io/6/lztv.json"
-        },
-        {
-            "key":"csp_xpath_cokemv",
-            "name": "Cokemv(XP)",
-            "type":3,
-            "api":"csp_XPathFilter",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://dxawi.github.io/6/cokep.json"
-        },
-        {
-            "key": "蓝光影院XPF",
-            "name": "蓝光影院(XP)",
-            "type":3,
-            "api":"csp_XPathFilter",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://dxawi.github.io/6/lgyyp.json"
-        }, 
         {   
             "key": "在线直播",
             "name": "在线直播(爬虫)",
@@ -422,7 +392,7 @@
             "searchable":0,
             "quickSearch":0,
             "filterable":0,
-            "ext": "14ab7929c5724ffd9c3431d8fa19d421"
+            "ext": "81461f2e9d0b4ffb86612db403824b8a"
         }
     ],
        "lives":[
