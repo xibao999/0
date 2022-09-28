@@ -38,6 +38,15 @@
             "filterable": 1
         },
         {
+            "key": "Ddrk",
+            "name": "Ddrk(爬虫)",
+            "type": 3,
+            "api": "csp_Ddrk",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "Lib",
             "name": "Libvio(爬虫)",
             "type": 3,
@@ -684,5 +693,5 @@
         "cms.qdwght.com"
     ],
        "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-       "spider":"https://dxawi.github.io/1/jar/cs.jar;md5;e9b5d9bfaf0ac1fcd9547b0a709809c6"
+       "spider":"https://dxawi.github.io/1/jar/cs.jar;md5;312c51714244b9273d3e55d529a8b40a"
 }
