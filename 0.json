@@ -28,26 +28,6 @@
             "quickSearch": 1,
             "filterable": 1
         },
-         {
-            "key": "csp_xb_ysgc",
-            "name": "影视工厂(R)",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://www.ysgc.fun/vodtype/{cateId}-{catePg}.html"
-        },
-        {
-            "key": "csp_xb_lgyy",
-            "name": "蓝光影院(R)",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html"
-        },
         {
             "key": "Coke",
             "name": "Cokemv(不好用中)",
@@ -314,6 +294,26 @@
             "quickSearch": 1,
             "filterable": 1,
             "categories": ["国产剧","日韩剧","港台剧","欧美剧","综艺","动漫","动作片","科幻片","战争片","喜剧片","爱情片","恐怖片","剧情片"]
+        },
+        {
+            "key": "csp_xb_ysgc",
+            "name": "影视工厂(R)",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://www.ysgc.fun/vodtype/{cateId}-{catePg}.html"
+        },
+        {
+            "key": "csp_xb_lgyy",
+            "name": "蓝光影院(R)",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html"
         },
         {
             "key":"csp_xpath_libv",
