@@ -47,6 +47,15 @@
             "filterable": 1
         },
         {
+            "key": "Nianying",
+            "name": "念影(爬虫)",
+            "type": 3,
+            "api": "csp_Nianying",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "厂长",
             "name": "厂长(爬虫)",
             "type":3,
@@ -127,6 +136,33 @@
             "quickSearch": 1,
             "filterable": 1
         }, 
+        {
+            "key": "QQ",
+            "name": "QQ(不好用)",
+            "type": 3,
+            "api": "csp_QQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "IQIYI",
+            "name": "IQIYI(不好用)",
+            "type": 3,
+            "api": "csp_IQIYI",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "MGTV",
+            "name": "MGTV(不好用)",
+            "type": 3,
+            "api": "csp_MGTV",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
         {
             "key": "360",
             "name": "360(不好用)",
@@ -656,5 +692,5 @@
         "cms.qdwght.com"
     ],
        "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-       "spider":"https://dxawi.github.io/1/jar/cs.jar;md5;3022f3db67b24673213905f120962a00"
+       "spider":"https://dxawi.github.io/1/jar/cs.jar;md5;d39b07ed5b2b0739e8712b9bb5f19e1e"
 }
