@@ -65,6 +65,16 @@
             "filterable":1
         },
         {
+            "key": "农民",
+            "name": "农民(爬虫)",
+            "type": 3,
+            "api": "csp_Nmys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gst163.github.io/s/nongminyingshi.json"
+        },
+        {
             "key": "剧荒",
             "name": "剧荒(爬虫)",
             "type": 3,
@@ -692,5 +702,5 @@
         "cms.qdwght.com"
     ],
        "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-       "spider":"https://dxawi.github.io/1/jar/cs.jar;md5;d39b07ed5b2b0739e8712b9bb5f19e1e"
+       "spider":"https://dxawi.github.io/1/jar/cs.jar;md5;77afd616fd7d56c0cce18204a0ff47eb"
 }
