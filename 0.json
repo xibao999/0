@@ -83,15 +83,6 @@
             "filterable": 1
         },
         {
-            "key": "神马影院",
-            "name": "神马(爬虫)",
-            "type": 3,
-            "api": "csp_Smdyy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "Bttoo",
             "name": "Bttoo(爬虫)",
             "api":"csp_Bttoo",
@@ -206,6 +197,16 @@
             "ext":"https://dxawi.github.io/6/dm84.json"
         }, 
         {
+            "key": "多多",
+            "name": "多多资源(采集)",
+            "type": 1,
+            "api": "https://www.ddzyz1.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": ["国产剧","日韩剧","港台剧","欧美剧","综艺","动漫","动作片","科幻片","战争片","喜剧片","爱情片","恐怖片","剧情片"]
+        },
+        {
             "key": "csp_XYQHiker_氢视频",
             "name": "氢视频(XYQH)",
             "type":3,
@@ -286,16 +287,6 @@
             "ext": "https://dxawi.github.io/6/kdyy.json"
         },
         {
-            "key": "多多",
-            "name": "多多资源(采集)",
-            "type": 1,
-            "api": "https://www.ddzyz1.com/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories": ["国产剧","日韩剧","港台剧","欧美剧","综艺","动漫","动作片","科幻片","战争片","喜剧片","爱情片","恐怖片","剧情片"]
-        },
-        {
             "key": "csp_xb_ysgc",
             "name": "影视工厂(R)",
             "type": 3,
@@ -315,6 +306,26 @@
             "filterable": 0,
             "ext": "https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html"
         },
+        {
+            "key": "csp_xb_jpys",
+            "name": "极品影视(R)",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://www.jpys.me/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "csp_xb_zbk",
+            "name": "真不卡(R)",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://www.zbkk.net/vodshow/{cateId}--------{catePg}---.html"
+        }, 
         {
             "key":"csp_xpath_libv",
             "name": "Libvio(XP)",
