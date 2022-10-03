@@ -47,15 +47,6 @@
             "filterable": 1
         },
         {
-            "key": "Nianying",
-            "name": "念影(爬虫)",
-            "type": 3,
-            "api": "csp_Nianying",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "厂长",
             "name": "厂长(爬虫)",
             "type":3,
@@ -109,15 +100,6 @@
             "filterable":1,
             "quickSearch":1,
             "searchable":1
-        },
-        {
-            "key": "追剧喵",
-            "name": "追剧喵(爬虫)",
-            "type": 3,
-            "api": "csp_ZJMiao",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
         },
         {
             "key": "Kuaikan",
