@@ -307,6 +307,26 @@
             "ext": "https://dxawi.github.io/1/json/kdyy.json"
         },
         {
+            "key":"完美看看",
+            "name": "完美看看(XPM)",
+            "type":3,
+            "api":"csp_XPathMac",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://dxawi.github.io/1/json/wmkkp.json"
+        },
+        {
+            "key":"极品影视",
+            "name": "极品影视(XPM)",
+            "type":3,
+            "api":"csp_XPathMac",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://dxawi.github.io/1/json/jpysp.json"
+        },
+        {
             "key":"csp_xpath_zxzj",
             "name": "在线之家(XP)",
             "type":3,
