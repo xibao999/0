@@ -257,6 +257,16 @@
             "ext":"https://dxawi.github.io/1/json/xbpqjpys.json"
         },
         {
+            "key": "csp_xBPQ真不卡",
+            "name": "️真不卡(XBPQ)",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext":"https://dxawi.github.io/1/json/bk.json"
+        },
+        {
             "key": "Voflix",
             "name": "Voflix(XB)",
             "type": 3,
