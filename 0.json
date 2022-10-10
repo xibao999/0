@@ -30,7 +30,7 @@
         },
         {
             "key":"csp_xpath_libv",
-            "name": "Libvio(XPMF)",
+            "name": "Libvio(XP)",
             "type":3,
             "api":"csp_XPathMacFilter",
             "searchable":1,
@@ -305,36 +305,6 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://dxawi.github.io/1/json/kdyy.json"
-        },
-        {
-            "key":"真不卡",
-            "name": "真不卡(XB)",
-            "type":3,
-            "api":"csp_XBiubiu",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://dxawi.github.io/1/json/zbk.json"
-        },
-        {
-            "key":"完美看看",
-            "name": "完美看看(XPM)",
-            "type":3,
-            "api":"csp_XPathMac",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://dxawi.github.io/1/json/wmkkp.json"
-        },
-        {
-            "key":"极品影视",
-            "name": "极品影视(XPM)",
-            "type":3,
-            "api":"csp_XPathMac",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://dxawi.github.io/1/json/jpysp.json"
         },
         {
             "key":"csp_xpath_zxzj",
