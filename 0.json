@@ -20,23 +20,13 @@
             "searchable": 1
         },
         {
-            "key": "Coke",
-            "name": "Cokemv(不好用中)",
+            "key": "Lib",
+            "name": "Libvio(爬虫)",
             "type": 3,
-            "api": "csp_Cokemv",
+            "api": "csp_Lib",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key":"csp_xpath_libv",
-            "name": "Libvio(XP)",
-            "type":3,
-            "api":"csp_XPathMacFilter",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://dxawi.github.io/1/json/libvp.json"
         },
         {
             "key": "厂长",
@@ -46,6 +36,15 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1
+        },
+        {
+            "key": "Coke",
+            "name": "Cokemv(不好用中)",
+            "type": 3,
+            "api": "csp_Cokemv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "农民",
@@ -92,6 +91,33 @@
             "filterable":1,
             "quickSearch":1,
             "searchable":1
+        },
+        {
+            "key": "ZJMiao",
+            "name": "追剧喵(爬虫)",
+            "type": 3,
+            "api": "csp_ZJMiao",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "LiteApple",
+            "name": "小苹果(爬虫)",
+            "type": 3,
+            "api": "csp_LiteApple",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Auete",
+            "name": "Auete(爬虫)",
+            "type": 3,
+            "api": "csp_Auete",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "Kuaikan",
@@ -227,16 +253,6 @@
             "categories": ["国产剧","日韩剧","港台剧","欧美剧","综艺","动漫","动作片","科幻片","战争片","喜剧片","爱情片","恐怖片","剧情片"]
         },
         {
-            "key": "csp_XYQHiker_氢视频",
-            "name": "氢视频(XYQH)",
-            "type":3,
-            "api":"csp_XYQHiker",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://dxawi.github.io/1/json/xyqqsp.json"
-        },
-        {
             "key": "csp_XYQBiu_凌云影视",
             "name": "凌云影视(XYQB)",
             "type":3,
@@ -315,6 +331,16 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://dxawi.github.io/1/json/kdyy.json"
+        },
+        {
+            "key":"csp_xpath_libv",
+            "name": "Libvio(XP)",
+            "type":3,
+            "api":"csp_XPathMacFilter",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://dxawi.github.io/1/json/libvp.json"
         },
         {
             "key":"csp_xpath_zxzj",
@@ -676,5 +702,5 @@
         "cms.qdwght.com"
     ],
        "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-       "spider":"https://dxawi.github.io/1/jar/cs.jar;md5;fba3e121a785d0f9241ba30fad859b59"
+       "spider":"https://dxawi.github.io/1/jar/cs.jar;md5;396c49bfcb3ec4ca5020f9c4a004118d"
 }
