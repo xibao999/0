@@ -129,24 +129,6 @@
             "filterable": 1
         },
         {
-            "key": "555",
-            "name": "555(爬虫)",
-            "type": 3,
-            "api": "csp_Dy555",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Anime1",
-            "name": "日漫(爬虫)",
-            "type": 3,
-            "api": "csp_Anime1",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        }, 
-        {
             "key": "QQ",
             "name": "QQ(不好用)",
             "type": 3,
